@@ -2,7 +2,7 @@
   {
     "id": "adamantine-armor",
     "nameEn": "Adamantine Armor",
-    "namePt": "",
+    "namePt": "Armadura de Adamante",
     "type": "armor",
     "rarity": "uncommon",
     "attunement": false,
@@ -13,7 +13,7 @@
   {
     "id": "adamantine-weapon",
     "nameEn": "Adamantine Weapon",
-    "namePt": "",
+    "namePt": "Arma de Adamante",
     "type": "weapon",
     "rarity": "uncommon",
     "attunement": false,
@@ -24,7 +24,7 @@
   {
     "id": "alchemy-jug",
     "nameEn": "Alchemy Jug",
-    "namePt": "",
+    "namePt": "Jarro Alquímico",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -35,7 +35,7 @@
   {
     "id": "ammunition-1-2-or-3--plus-1",
     "nameEn": "Ammunition +1",
-    "namePt": "",
+    "namePt": "Munição +1",
     "type": "weapon",
     "rarity": "uncommon",
     "attunement": false,
@@ -46,7 +46,7 @@
   {
     "id": "ammunition-1-2-or-3--plus-2",
     "nameEn": "Ammunition +2",
-    "namePt": "",
+    "namePt": "Munição +2",
     "type": "weapon",
     "rarity": "rare",
     "attunement": false,
@@ -57,7 +57,7 @@
   {
     "id": "ammunition-1-2-or-3--plus-3",
     "nameEn": "Ammunition +3",
-    "namePt": "",
+    "namePt": "Munição +3",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": false,
@@ -68,7 +68,7 @@
   {
     "id": "ammunition-of-slaying",
     "nameEn": "Ammunition of Slaying",
-    "namePt": "",
+    "namePt": "Munição Assassina",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": false,
@@ -79,7 +79,7 @@
   {
     "id": "amulet-of-health",
     "nameEn": "Amulet of Health",
-    "namePt": "",
+    "namePt": "Amuleto da Saúde",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -90,7 +90,7 @@
   {
     "id": "amulet-of-proof-against-detection-and-location",
     "nameEn": "Amulet of Proof against Detection and Location",
-    "namePt": "",
+    "namePt": "Amuleto contra Detecção e Localização",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -101,7 +101,7 @@
   {
     "id": "amulet-of-the-planes",
     "nameEn": "Amulet of the Planes",
-    "namePt": "",
+    "namePt": "Amuleto dos Planos",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -112,7 +112,7 @@
   {
     "id": "animated-shield",
     "nameEn": "Animated Shield",
-    "namePt": "",
+    "namePt": "Escudo Animado",
     "type": "armor",
     "rarity": "very_rare",
     "attunement": true,
@@ -123,7 +123,7 @@
   {
     "id": "apparatus-of-kwalish",
     "nameEn": "Apparatus of Kwalish",
-    "namePt": "",
+    "namePt": "Aparato de Kwalish",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": false,
@@ -134,7 +134,7 @@
   {
     "id": "armor-1-2-or-3--plus-1",
     "nameEn": "Armor +1",
-    "namePt": "",
+    "namePt": "Armadura +1",
     "type": "armor",
     "rarity": "rare",
     "attunement": false,
@@ -145,7 +145,7 @@
   {
     "id": "armor-1-2-or-3--plus-2",
     "nameEn": "Armor +2",
-    "namePt": "",
+    "namePt": "Armadura +2",
     "type": "armor",
     "rarity": "very_rare",
     "attunement": false,
@@ -156,7 +156,7 @@
   {
     "id": "armor-1-2-or-3--plus-3",
     "nameEn": "Armor +3",
-    "namePt": "",
+    "namePt": "Armadura +3",
     "type": "armor",
     "rarity": "legendary",
     "attunement": false,
@@ -167,7 +167,7 @@
   {
     "id": "armor-of-gleaming",
     "nameEn": "Armor of Gleaming",
-    "namePt": "",
+    "namePt": "Armadura Reluzente",
     "type": "armor",
     "rarity": "common",
     "attunement": false,
@@ -178,7 +178,7 @@
   {
     "id": "armor-of-invulnerability",
     "nameEn": "Armor of Invulnerability",
-    "namePt": "",
+    "namePt": "Armadura da Invulnerabilidade",
     "type": "armor",
     "rarity": "legendary",
     "attunement": true,
@@ -189,7 +189,7 @@
   {
     "id": "armor-of-resistance",
     "nameEn": "Armor of Resistance",
-    "namePt": "",
+    "namePt": "Armadura de Resistência",
     "type": "armor",
     "rarity": "rare",
     "attunement": true,
@@ -200,7 +200,7 @@
   {
     "id": "armor-of-vulnerability",
     "nameEn": "Armor of Vulnerability",
-    "namePt": "",
+    "namePt": "Armadura de Vulnerabilidade",
     "type": "armor",
     "rarity": "rare",
     "attunement": true,
@@ -211,7 +211,7 @@
   {
     "id": "arrow-catching-shield",
     "nameEn": "Arrow-Catching Shield",
-    "namePt": "",
+    "namePt": "Escudo Apanha-Flechas",
     "type": "armor",
     "rarity": "rare",
     "attunement": true,
@@ -222,7 +222,7 @@
   {
     "id": "axe-of-the-dwarvish-lords",
     "nameEn": "Axe of the Dwarvish Lords",
-    "namePt": "",
+    "namePt": "Machado dos Senhores Anões",
     "type": "weapon",
     "rarity": "artifact",
     "attunement": true,
@@ -233,7 +233,7 @@
   {
     "id": "baba-yaga-s-dancing-broom",
     "nameEn": "Baba Yaga's Dancing Broom",
-    "namePt": "",
+    "namePt": "Vassoura Dançante de Baba Yaga",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -244,7 +244,7 @@
   {
     "id": "bag-of-beans",
     "nameEn": "Bag of Beans",
-    "namePt": "",
+    "namePt": "Bolsa de Feijões",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -255,7 +255,7 @@
   {
     "id": "bag-of-devouring",
     "nameEn": "Bag of Devouring",
-    "namePt": "",
+    "namePt": "Bolsa Devoradora",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -266,7 +266,7 @@
   {
     "id": "bag-of-holding",
     "nameEn": "Bag of Holding",
-    "namePt": "",
+    "namePt": "Bolsa Guarda-Tudo",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -277,7 +277,7 @@
   {
     "id": "bag-of-tricks",
     "nameEn": "Bag of Tricks",
-    "namePt": "",
+    "namePt": "Bolsa de Truques",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -288,7 +288,7 @@
   {
     "id": "bead-of-force",
     "nameEn": "Bead of Force",
-    "namePt": "",
+    "namePt": "Conta de Força",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -299,7 +299,7 @@
   {
     "id": "bead-of-nourishment",
     "nameEn": "Bead of Nourishment",
-    "namePt": "",
+    "namePt": "Conta de Nutrição",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -310,7 +310,7 @@
   {
     "id": "bead-of-refreshment",
     "nameEn": "Bead of Refreshment",
-    "namePt": "",
+    "namePt": "Conta de Refresco",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -321,7 +321,7 @@
   {
     "id": "belt-of-dwarvenkind",
     "nameEn": "Belt of Dwarvenkind",
-    "namePt": "",
+    "namePt": "Cinto Anão",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -332,7 +332,7 @@
   {
     "id": "belt-of-giant-strength--cloud",
     "nameEn": "Belt of Giant Strength (Cloud)",
-    "namePt": "",
+    "namePt": "Cinto de Força do Gigante (das Nuvens)",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -343,7 +343,7 @@
   {
     "id": "belt-of-giant-strength--fire",
     "nameEn": "Belt of Giant Strength (Fire)",
-    "namePt": "",
+    "namePt": "Cinto de Força do Gigante (do Fogo)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -354,7 +354,7 @@
   {
     "id": "belt-of-giant-strength--frost",
     "nameEn": "Belt of Giant Strength (Frost)",
-    "namePt": "",
+    "namePt": "Cinto de Força do Gigante (do Gelo)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -365,7 +365,7 @@
   {
     "id": "belt-of-giant-strength--hill",
     "nameEn": "Belt of Giant Strength (Hill)",
-    "namePt": "",
+    "namePt": "Cinto de Força do Gigante (da Colina)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -376,7 +376,7 @@
   {
     "id": "belt-of-giant-strength--stone",
     "nameEn": "Belt of Giant Strength (Stone)",
-    "namePt": "",
+    "namePt": "Cinto de Força do Gigante (de Pedra)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -387,7 +387,7 @@
   {
     "id": "belt-of-giant-strength--storm",
     "nameEn": "Belt of Giant Strength (Storm)",
-    "namePt": "",
+    "namePt": "Cinto de Força do Gigante (da Tempestade)",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -398,7 +398,7 @@
   {
     "id": "berserker-axe",
     "nameEn": "Berserker Axe",
-    "namePt": "",
+    "namePt": "Machado do Berserker",
     "type": "weapon",
     "rarity": "rare",
     "attunement": true,
@@ -409,7 +409,7 @@
   {
     "id": "blackrazor",
     "nameEn": "Blackrazor",
-    "namePt": "",
+    "namePt": "Navalha Negra",
     "type": "weapon",
     "rarity": "artifact",
     "attunement": true,
@@ -420,7 +420,7 @@
   {
     "id": "book-of-exalted-deeds",
     "nameEn": "Book of Exalted Deeds",
-    "namePt": "",
+    "namePt": "Livro dos Feitos Exaltados",
     "type": "wondrous",
     "rarity": "artifact",
     "attunement": true,
@@ -431,7 +431,7 @@
   {
     "id": "book-of-vile-darkness",
     "nameEn": "Book of Vile Darkness",
-    "namePt": "",
+    "namePt": "Livro da Escuridão Vil",
     "type": "wondrous",
     "rarity": "artifact",
     "attunement": true,
@@ -442,7 +442,7 @@
   {
     "id": "boots-of-elvenkind",
     "nameEn": "Boots of Elvenkind",
-    "namePt": "",
+    "namePt": "Botas Élficas",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -453,7 +453,7 @@
   {
     "id": "boots-of-false-tracks",
     "nameEn": "Boots of False Tracks",
-    "namePt": "",
+    "namePt": "Botas de Rastros Falsos",
     "type": "wondrous",
     "rarity": "common",
     "attunement": true,
@@ -464,7 +464,7 @@
   {
     "id": "boots-of-levitation",
     "nameEn": "Boots of Levitation",
-    "namePt": "",
+    "namePt": "Botas da Levitação",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -475,7 +475,7 @@
   {
     "id": "boots-of-speed",
     "nameEn": "Boots of Speed",
-    "namePt": "",
+    "namePt": "Botas da Velocidade",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -486,7 +486,7 @@
   {
     "id": "boots-of-striding-and-springing",
     "nameEn": "Boots of Striding and Springing",
-    "namePt": "",
+    "namePt": "Botas de Passadas e Saltos",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -497,7 +497,7 @@
   {
     "id": "boots-of-the-winterlands",
     "nameEn": "Boots of the Winterlands",
-    "namePt": "",
+    "namePt": "Botas das Terras Invernais",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -508,7 +508,7 @@
   {
     "id": "bowl-of-commanding-water-elementals",
     "nameEn": "Bowl of Commanding Water Elementals",
-    "namePt": "",
+    "namePt": "Tigela de Comando de Elementais da Água",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -519,7 +519,7 @@
   {
     "id": "bracers-of-archery",
     "nameEn": "Bracers of Archery",
-    "namePt": "",
+    "namePt": "Braçadeiras de Arquearia",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -530,7 +530,7 @@
   {
     "id": "bracers-of-defense",
     "nameEn": "Bracers of Defense",
-    "namePt": "",
+    "namePt": "Braçadeiras de Defesa",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -541,7 +541,7 @@
   {
     "id": "brazier-of-commanding-fire-elementals",
     "nameEn": "Brazier of Commanding Fire Elementals",
-    "namePt": "",
+    "namePt": "Braseiro de Comando de Elementais do Fogo",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -552,7 +552,7 @@
   {
     "id": "brooch-of-shielding",
     "nameEn": "Brooch of Shielding",
-    "namePt": "",
+    "namePt": "Broche de Proteção",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -563,7 +563,7 @@
   {
     "id": "broom-of-flying",
     "nameEn": "Broom of Flying",
-    "namePt": "",
+    "namePt": "Vassoura Voadora",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -574,7 +574,7 @@
   {
     "id": "candle-of-invocation",
     "nameEn": "Candle of Invocation",
-    "namePt": "",
+    "namePt": "Vela da Invocação",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -585,7 +585,7 @@
   {
     "id": "candle-of-the-deep",
     "nameEn": "Candle of the Deep",
-    "namePt": "",
+    "namePt": "Vela das Profundezas",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -596,7 +596,7 @@
   {
     "id": "cap-of-water-breathing",
     "nameEn": "Cap of Water Breathing",
-    "namePt": "",
+    "namePt": "Gorro de Respirar na Água",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -607,7 +607,7 @@
   {
     "id": "cape-of-the-mountebank",
     "nameEn": "Cape of the Mountebank",
-    "namePt": "",
+    "namePt": "Capa do Charlatão",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -618,7 +618,7 @@
   {
     "id": "carpet-of-flying",
     "nameEn": "Carpet of Flying",
-    "namePt": "",
+    "namePt": "Tapete Voador",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -629,7 +629,7 @@
   {
     "id": "cast-off-armor",
     "nameEn": "Cast-Off Armor",
-    "namePt": "",
+    "namePt": "Armadura Descartável",
     "type": "armor",
     "rarity": "common",
     "attunement": false,
@@ -640,7 +640,7 @@
   {
     "id": "cauldron-of-rebirth",
     "nameEn": "Cauldron of Rebirth",
-    "namePt": "",
+    "namePt": "Caldeirão do Renascimento",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -651,7 +651,7 @@
   {
     "id": "censer-of-controlling-air-elementals",
     "nameEn": "Censer of Controlling Air Elementals",
-    "namePt": "",
+    "namePt": "Incensário de Controle de Elementais do Ar",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -662,7 +662,7 @@
   {
     "id": "charlatan-s-die",
     "nameEn": "Charlatan's Die",
-    "namePt": "",
+    "namePt": "Dado do Trapaceiro",
     "type": "wondrous",
     "rarity": "common",
     "attunement": true,
@@ -673,7 +673,7 @@
   {
     "id": "chime-of-opening",
     "nameEn": "Chime of Opening",
-    "namePt": "",
+    "namePt": "Sineta da Abertura",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -684,7 +684,7 @@
   {
     "id": "circlet-of-blasting",
     "nameEn": "Circlet of Blasting",
-    "namePt": "",
+    "namePt": "Diadema Explosivo",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -695,7 +695,7 @@
   {
     "id": "cloak-of-arachnida",
     "nameEn": "Cloak of Arachnida",
-    "namePt": "",
+    "namePt": "Manto Aracnídeo",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -706,7 +706,7 @@
   {
     "id": "cloak-of-billowing",
     "nameEn": "Cloak of Billowing",
-    "namePt": "",
+    "namePt": "Manto Esvoaçante",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -717,7 +717,7 @@
   {
     "id": "cloak-of-displacement",
     "nameEn": "Cloak of Displacement",
-    "namePt": "",
+    "namePt": "Manto da Deslocação",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -728,7 +728,7 @@
   {
     "id": "cloak-of-elvenkind",
     "nameEn": "Cloak of Elvenkind",
-    "namePt": "",
+    "namePt": "Manto Élfico",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -739,7 +739,7 @@
   {
     "id": "cloak-of-invisibility",
     "nameEn": "Cloak of Invisibility",
-    "namePt": "",
+    "namePt": "Manto da Invisibilidade",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -750,7 +750,7 @@
   {
     "id": "cloak-of-many-fashions",
     "nameEn": "Cloak of Many Fashions",
-    "namePt": "",
+    "namePt": "Manto de Muitas Modas",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -761,7 +761,7 @@
   {
     "id": "cloak-of-protection",
     "nameEn": "Cloak of Protection",
-    "namePt": "",
+    "namePt": "Manto de Proteção",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -772,7 +772,7 @@
   {
     "id": "cloak-of-the-bat",
     "nameEn": "Cloak of the Bat",
-    "namePt": "",
+    "namePt": "Manto do Morcego",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -783,7 +783,7 @@
   {
     "id": "cloak-of-the-manta-ray",
     "nameEn": "Cloak of the Manta Ray",
-    "namePt": "",
+    "namePt": "Manto da Arraia",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -794,7 +794,7 @@
   {
     "id": "clockwork-amulet",
     "nameEn": "Clockwork Amulet",
-    "namePt": "",
+    "namePt": "Amuleto Mecânico",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -805,7 +805,7 @@
   {
     "id": "clothes-of-mending",
     "nameEn": "Clothes of Mending",
-    "namePt": "",
+    "namePt": "Roupas Autorremendantes",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -816,7 +816,7 @@
   {
     "id": "crystal-ball",
     "nameEn": "Crystal Ball",
-    "namePt": "",
+    "namePt": "Bola de Cristal",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -827,7 +827,7 @@
   {
     "id": "crystal-ball-of-mind-reading",
     "nameEn": "Crystal Ball of Mind Reading",
-    "namePt": "",
+    "namePt": "Bola de Cristal de Leitura Mental",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -838,7 +838,7 @@
   {
     "id": "crystal-ball-of-telepathy",
     "nameEn": "Crystal Ball of Telepathy",
-    "namePt": "",
+    "namePt": "Bola de Cristal de Telepatia",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -849,7 +849,7 @@
   {
     "id": "crystal-ball-of-true-seeing",
     "nameEn": "Crystal Ball of True Seeing",
-    "namePt": "",
+    "namePt": "Bola de Cristal de Visão da Verdade",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -860,7 +860,7 @@
   {
     "id": "cube-of-force",
     "nameEn": "Cube of Force",
-    "namePt": "",
+    "namePt": "Cubo de Força",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -871,7 +871,7 @@
   {
     "id": "cube-of-summoning",
     "nameEn": "Cube of Summoning",
-    "namePt": "",
+    "namePt": "Cubo de Invocação",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -882,7 +882,7 @@
   {
     "id": "cubic-gate",
     "nameEn": "Cubic Gate",
-    "namePt": "",
+    "namePt": "Portal Cúbico",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": false,
@@ -893,7 +893,7 @@
   {
     "id": "daern-s-instant-fortress",
     "nameEn": "Daern's Instant Fortress",
-    "namePt": "",
+    "namePt": "Fortaleza Instantânea de Daern",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -904,7 +904,7 @@
   {
     "id": "dagger-of-venom",
     "nameEn": "Dagger of Venom",
-    "namePt": "",
+    "namePt": "Adaga Venenosa",
     "type": "weapon",
     "rarity": "rare",
     "attunement": false,
@@ -915,7 +915,7 @@
   {
     "id": "dancing-sword",
     "nameEn": "Dancing Sword",
-    "namePt": "",
+    "namePt": "Espada Dançante",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -926,7 +926,7 @@
   {
     "id": "dark-shard-amulet",
     "nameEn": "Dark Shard Amulet",
-    "namePt": "",
+    "namePt": "Amuleto do Fragmento Sombrio",
     "type": "wondrous",
     "rarity": "common",
     "attunement": true,
@@ -937,7 +937,7 @@
   {
     "id": "decanter-of-endless-water",
     "nameEn": "Decanter of Endless Water",
-    "namePt": "",
+    "namePt": "Garrafa de Água Infinita",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -948,7 +948,7 @@
   {
     "id": "deck-of-illusions",
     "nameEn": "Deck of Illusions",
-    "namePt": "",
+    "namePt": "Baralho de Ilusões",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -959,7 +959,7 @@
   {
     "id": "deck-of-many-things",
     "nameEn": "Deck of Many Things",
-    "namePt": "",
+    "namePt": "Baralho das Muitas Coisas",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": false,
@@ -970,7 +970,7 @@
   {
     "id": "defender",
     "nameEn": "Defender",
-    "namePt": "",
+    "namePt": "Defensora",
     "type": "weapon",
     "rarity": "legendary",
     "attunement": true,
@@ -981,7 +981,7 @@
   {
     "id": "demon-armor",
     "nameEn": "Demon Armor",
-    "namePt": "",
+    "namePt": "Armadura Demoníaca",
     "type": "armor",
     "rarity": "very_rare",
     "attunement": true,
@@ -992,7 +992,7 @@
   {
     "id": "demonomicon-of-iggwilv",
     "nameEn": "Demonomicon of Iggwilv",
-    "namePt": "",
+    "namePt": "Demonomicon de Iggwilv",
     "type": "wondrous",
     "rarity": "artifact",
     "attunement": true,
@@ -1003,7 +1003,7 @@
   {
     "id": "dimensional-shackles",
     "nameEn": "Dimensional Shackles",
-    "namePt": "",
+    "namePt": "Grilhões Dimensionais",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1014,7 +1014,7 @@
   {
     "id": "dragon-scale-mail",
     "nameEn": "Dragon Scale Mail",
-    "namePt": "",
+    "namePt": "Armadura de Escamas de Dragão",
     "type": "armor",
     "rarity": "very_rare",
     "attunement": true,
@@ -1025,7 +1025,7 @@
   {
     "id": "dragon-slayer",
     "nameEn": "Dragon Slayer",
-    "namePt": "",
+    "namePt": "Matadora de Dragões",
     "type": "weapon",
     "rarity": "rare",
     "attunement": false,
@@ -1036,7 +1036,7 @@
   {
     "id": "dread-helm",
     "nameEn": "Dread Helm",
-    "namePt": "",
+    "namePt": "Elmo Pavoroso",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -1047,7 +1047,7 @@
   {
     "id": "driftglobe",
     "nameEn": "Driftglobe",
-    "namePt": "",
+    "namePt": "Globo Flutuante",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1058,7 +1058,7 @@
   {
     "id": "dust-of-disappearance",
     "nameEn": "Dust of Disappearance",
-    "namePt": "",
+    "namePt": "Pó do Desaparecimento",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1069,7 +1069,7 @@
   {
     "id": "dust-of-dryness",
     "nameEn": "Dust of Dryness",
-    "namePt": "",
+    "namePt": "Pó da Secura",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1080,7 +1080,7 @@
   {
     "id": "dust-of-sneezing-and-choking",
     "nameEn": "Dust of Sneezing and Choking",
-    "namePt": "",
+    "namePt": "Pó de Espirro e Sufocamento",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1091,7 +1091,7 @@
   {
     "id": "dwarven-plate",
     "nameEn": "Dwarven Plate",
-    "namePt": "",
+    "namePt": "Armadura de Placas Anã",
     "type": "armor",
     "rarity": "very_rare",
     "attunement": false,
@@ -1102,7 +1102,7 @@
   {
     "id": "dwarven-thrower",
     "nameEn": "Dwarven Thrower",
-    "namePt": "",
+    "namePt": "Arremessador Anão",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -1113,7 +1113,7 @@
   {
     "id": "ear-horn-of-hearing",
     "nameEn": "Ear Horn of Hearing",
-    "namePt": "",
+    "namePt": "Corneta Acústica",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -1124,7 +1124,7 @@
   {
     "id": "efreeti-bottle",
     "nameEn": "Efreeti Bottle",
-    "namePt": "",
+    "namePt": "Garrafa de Efreeti",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -1135,7 +1135,7 @@
   {
     "id": "efreeti-chain",
     "nameEn": "Efreeti Chain",
-    "namePt": "",
+    "namePt": "Cota de Malha de Efreeti",
     "type": "armor",
     "rarity": "legendary",
     "attunement": true,
@@ -1146,7 +1146,7 @@
   {
     "id": "elemental-gem",
     "nameEn": "Elemental Gem",
-    "namePt": "",
+    "namePt": "Gema Elemental",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1157,7 +1157,7 @@
   {
     "id": "elixir-of-health",
     "nameEn": "Elixir of Health",
-    "namePt": "",
+    "namePt": "Elixir da Saúde",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -1168,7 +1168,7 @@
   {
     "id": "elven-chain",
     "nameEn": "Elven Chain",
-    "namePt": "",
+    "namePt": "Cota de Malha Élfica",
     "type": "armor",
     "rarity": "rare",
     "attunement": false,
@@ -1179,7 +1179,7 @@
   {
     "id": "enduring-spellbook",
     "nameEn": "Enduring Spellbook",
-    "namePt": "",
+    "namePt": "Grimório Duradouro",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -1190,7 +1190,7 @@
   {
     "id": "energy-bow",
     "nameEn": "Energy Bow",
-    "namePt": "",
+    "namePt": "Arco de Energia",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -1201,7 +1201,7 @@
   {
     "id": "enspelled-armor--level-0-1",
     "nameEn": "Enspelled Armor (Cantrip or Level 1)",
-    "namePt": "",
+    "namePt": "Armadura Encantada (Truque ou Nível 1)",
     "type": "armor",
     "rarity": "uncommon",
     "attunement": true,
@@ -1212,7 +1212,7 @@
   {
     "id": "enspelled-armor--level-2-3",
     "nameEn": "Enspelled Armor (Level 2–3)",
-    "namePt": "",
+    "namePt": "Armadura Encantada (Nível 2–3)",
     "type": "armor",
     "rarity": "rare",
     "attunement": true,
@@ -1223,7 +1223,7 @@
   {
     "id": "enspelled-armor--level-4-5",
     "nameEn": "Enspelled Armor (Level 4–5)",
-    "namePt": "",
+    "namePt": "Armadura Encantada (Nível 4–5)",
     "type": "armor",
     "rarity": "very_rare",
     "attunement": true,
@@ -1234,7 +1234,7 @@
   {
     "id": "enspelled-armor--level-6-8",
     "nameEn": "Enspelled Armor (Level 6–8)",
-    "namePt": "",
+    "namePt": "Armadura Encantada (Nível 6–8)",
     "type": "armor",
     "rarity": "legendary",
     "attunement": true,
@@ -1245,7 +1245,7 @@
   {
     "id": "enspelled-staff--level-0-1",
     "nameEn": "Enspelled Staff (Cantrip or Level 1)",
-    "namePt": "",
+    "namePt": "Cajado Encantado (Truque ou Nível 1)",
     "type": "staff",
     "rarity": "uncommon",
     "attunement": true,
@@ -1256,7 +1256,7 @@
   {
     "id": "enspelled-staff--level-2-3",
     "nameEn": "Enspelled Staff (Level 2–3)",
-    "namePt": "",
+    "namePt": "Cajado Encantado (Nível 2–3)",
     "type": "staff",
     "rarity": "rare",
     "attunement": true,
@@ -1267,7 +1267,7 @@
   {
     "id": "enspelled-staff--level-4-5",
     "nameEn": "Enspelled Staff (Level 4–5)",
-    "namePt": "",
+    "namePt": "Cajado Encantado (Nível 4–5)",
     "type": "staff",
     "rarity": "very_rare",
     "attunement": true,
@@ -1278,7 +1278,7 @@
   {
     "id": "enspelled-staff--level-6-8",
     "nameEn": "Enspelled Staff (Level 6–8)",
-    "namePt": "",
+    "namePt": "Cajado Encantado (Nível 6–8)",
     "type": "staff",
     "rarity": "legendary",
     "attunement": true,
@@ -1289,7 +1289,7 @@
   {
     "id": "enspelled-weapon--level-0-1",
     "nameEn": "Enspelled Weapon (Cantrip or Level 1)",
-    "namePt": "",
+    "namePt": "Arma Encantada (Truque ou Nível 1)",
     "type": "weapon",
     "rarity": "uncommon",
     "attunement": true,
@@ -1300,7 +1300,7 @@
   {
     "id": "enspelled-weapon--level-2-3",
     "nameEn": "Enspelled Weapon (Level 2–3)",
-    "namePt": "",
+    "namePt": "Arma Encantada (Nível 2–3)",
     "type": "weapon",
     "rarity": "rare",
     "attunement": true,
@@ -1311,7 +1311,7 @@
   {
     "id": "enspelled-weapon--level-4-5",
     "nameEn": "Enspelled Weapon (Level 4–5)",
-    "namePt": "",
+    "namePt": "Arma Encantada (Nível 4–5)",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -1322,7 +1322,7 @@
   {
     "id": "enspelled-weapon--level-6-8",
     "nameEn": "Enspelled Weapon (Level 6–8)",
-    "namePt": "",
+    "namePt": "Arma Encantada (Nível 6–8)",
     "type": "weapon",
     "rarity": "legendary",
     "attunement": true,
@@ -1333,7 +1333,7 @@
   {
     "id": "ersatz-eye",
     "nameEn": "Ersatz Eye",
-    "namePt": "",
+    "namePt": "Olho Postiço",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -1344,7 +1344,7 @@
   {
     "id": "eversmoking-bottle",
     "nameEn": "Eversmoking Bottle",
-    "namePt": "",
+    "namePt": "Garrafa de Fumaça Eterna",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1355,7 +1355,7 @@
   {
     "id": "executioner-s-axe",
     "nameEn": "Executioner's Axe",
-    "namePt": "",
+    "namePt": "Machado do Carrasco",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": false,
@@ -1366,7 +1366,7 @@
   {
     "id": "eye-and-hand-of-vecna",
     "nameEn": "Eye and Hand of Vecna",
-    "namePt": "",
+    "namePt": "Olho e Mão de Vecna",
     "type": "wondrous",
     "rarity": "artifact",
     "attunement": true,
@@ -1377,7 +1377,7 @@
   {
     "id": "eyes-of-charming",
     "nameEn": "Eyes of Charming",
-    "namePt": "",
+    "namePt": "Olhos Encantadores",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1388,7 +1388,7 @@
   {
     "id": "eyes-of-minute-seeing",
     "nameEn": "Eyes of Minute Seeing",
-    "namePt": "",
+    "namePt": "Olhos de Visão Minuciosa",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1399,7 +1399,7 @@
   {
     "id": "eyes-of-the-eagle",
     "nameEn": "Eyes of the Eagle",
-    "namePt": "",
+    "namePt": "Olhos de Águia",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1410,7 +1410,7 @@
   {
     "id": "figurine-of-wondrous-power--bronze-griffon",
     "nameEn": "Figurine of Wondrous Power (Bronze Griffon)",
-    "namePt": "",
+    "namePt": "Estatueta de Poder Maravilhoso (Grifo de Bronze)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1421,7 +1421,7 @@
   {
     "id": "figurine-of-wondrous-power--ebony-fly",
     "nameEn": "Figurine of Wondrous Power (Ebony Fly)",
-    "namePt": "",
+    "namePt": "Estatueta de Poder Maravilhoso (Mosca de Ébano)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1432,7 +1432,7 @@
   {
     "id": "figurine-of-wondrous-power--golden-lions",
     "nameEn": "Figurine of Wondrous Power (Golden Lions)",
-    "namePt": "",
+    "namePt": "Estatueta de Poder Maravilhoso (Leões Dourados)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1443,7 +1443,7 @@
   {
     "id": "figurine-of-wondrous-power--ivory-goats",
     "nameEn": "Figurine of Wondrous Power (Ivory Goats)",
-    "namePt": "",
+    "namePt": "Estatueta de Poder Maravilhoso (Bodes de Marfim)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1454,7 +1454,7 @@
   {
     "id": "figurine-of-wondrous-power--marble-elephant",
     "nameEn": "Figurine of Wondrous Power (Marble Elephant)",
-    "namePt": "",
+    "namePt": "Estatueta de Poder Maravilhoso (Elefante de Mármore)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1465,7 +1465,7 @@
   {
     "id": "figurine-of-wondrous-power--obsidian-steed",
     "nameEn": "Figurine of Wondrous Power (Obsidian Steed)",
-    "namePt": "",
+    "namePt": "Estatueta de Poder Maravilhoso (Corcel de Obsidiana)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -1476,7 +1476,7 @@
   {
     "id": "figurine-of-wondrous-power--onyx-dog",
     "nameEn": "Figurine of Wondrous Power (Onyx Dog)",
-    "namePt": "",
+    "namePt": "Estatueta de Poder Maravilhoso (Cão de Ônix)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1487,7 +1487,7 @@
   {
     "id": "figurine-of-wondrous-power--serpentine-owl",
     "nameEn": "Figurine of Wondrous Power (Serpentine Owl)",
-    "namePt": "",
+    "namePt": "Estatueta de Poder Maravilhoso (Coruja de Serpentina)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1498,7 +1498,7 @@
   {
     "id": "figurine-of-wondrous-power--silver-raven",
     "nameEn": "Figurine of Wondrous Power (Silver Raven)",
-    "namePt": "",
+    "namePt": "Estatueta de Poder Maravilhoso (Corvo de Prata)",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1509,7 +1509,7 @@
   {
     "id": "flame-tongue",
     "nameEn": "Flame Tongue",
-    "namePt": "",
+    "namePt": "Língua Flamejante",
     "type": "weapon",
     "rarity": "rare",
     "attunement": true,
@@ -1520,7 +1520,7 @@
   {
     "id": "folding-boat",
     "nameEn": "Folding Boat",
-    "namePt": "",
+    "namePt": "Barco Dobrável",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1531,7 +1531,7 @@
   {
     "id": "frost-brand",
     "nameEn": "Frost Brand",
-    "namePt": "",
+    "namePt": "Marca Gélida",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -1542,7 +1542,7 @@
   {
     "id": "gauntlets-of-ogre-power",
     "nameEn": "Gauntlets of Ogre Power",
-    "namePt": "",
+    "namePt": "Manoplas de Poder do Ogro",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1553,7 +1553,7 @@
   {
     "id": "gem-of-brightness",
     "nameEn": "Gem of Brightness",
-    "namePt": "",
+    "namePt": "Gema do Brilho",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1564,7 +1564,7 @@
   {
     "id": "gem-of-seeing",
     "nameEn": "Gem of Seeing",
-    "namePt": "",
+    "namePt": "Gema da Visão",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -1575,7 +1575,7 @@
   {
     "id": "giant-slayer",
     "nameEn": "Giant Slayer",
-    "namePt": "",
+    "namePt": "Matadora de Gigantes",
     "type": "weapon",
     "rarity": "rare",
     "attunement": false,
@@ -1586,7 +1586,7 @@
   {
     "id": "glamoured-studded-leather",
     "nameEn": "Glamoured Studded Leather",
-    "namePt": "",
+    "namePt": "Couro Batido Ilusório",
     "type": "armor",
     "rarity": "rare",
     "attunement": false,
@@ -1597,7 +1597,7 @@
   {
     "id": "gloves-of-missile-snaring",
     "nameEn": "Gloves of Missile Snaring",
-    "namePt": "",
+    "namePt": "Luvas Apanha-Projéteis",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1608,7 +1608,7 @@
   {
     "id": "gloves-of-swimming-and-climbing",
     "nameEn": "Gloves of Swimming and Climbing",
-    "namePt": "",
+    "namePt": "Luvas de Natação e Escalada",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1619,7 +1619,7 @@
   {
     "id": "gloves-of-thievery",
     "nameEn": "Gloves of Thievery",
-    "namePt": "",
+    "namePt": "Luvas do Ladrão",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1630,7 +1630,7 @@
   {
     "id": "goggles-of-night",
     "nameEn": "Goggles of Night",
-    "namePt": "",
+    "namePt": "Óculos da Noite",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1641,7 +1641,7 @@
   {
     "id": "hag-eye",
     "nameEn": "Hag Eye",
-    "namePt": "",
+    "namePt": "Olho de Bruxa",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1652,7 +1652,7 @@
   {
     "id": "hammer-of-thunderbolts",
     "nameEn": "Hammer of Thunderbolts",
-    "namePt": "",
+    "namePt": "Martelo dos Raios",
     "type": "weapon",
     "rarity": "legendary",
     "attunement": true,
@@ -1663,7 +1663,7 @@
   {
     "id": "hat-of-disguise",
     "nameEn": "Hat of Disguise",
-    "namePt": "",
+    "namePt": "Chapéu do Disfarce",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1674,7 +1674,7 @@
   {
     "id": "hat-of-many-spells",
     "nameEn": "Hat of Many Spells",
-    "namePt": "",
+    "namePt": "Chapéu de Muitas Magias",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -1685,7 +1685,7 @@
   {
     "id": "hat-of-vermin",
     "nameEn": "Hat of Vermin",
-    "namePt": "",
+    "namePt": "Chapéu de Pragas",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -1696,7 +1696,7 @@
   {
     "id": "hat-of-wizardry",
     "nameEn": "Hat of Wizardry",
-    "namePt": "",
+    "namePt": "Chapéu de Mago",
     "type": "wondrous",
     "rarity": "common",
     "attunement": true,
@@ -1707,7 +1707,7 @@
   {
     "id": "headband-of-intellect",
     "nameEn": "Headband of Intellect",
-    "namePt": "",
+    "namePt": "Tiara do Intelecto",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1718,7 +1718,7 @@
   {
     "id": "helm-of-brilliance",
     "nameEn": "Helm of Brilliance",
-    "namePt": "",
+    "namePt": "Elmo do Brilho",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -1729,7 +1729,7 @@
   {
     "id": "helm-of-comprehending-languages",
     "nameEn": "Helm of Comprehending Languages",
-    "namePt": "",
+    "namePt": "Elmo de Compreender Idiomas",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -1740,7 +1740,7 @@
   {
     "id": "helm-of-telepathy",
     "nameEn": "Helm of Telepathy",
-    "namePt": "",
+    "namePt": "Elmo da Telepatia",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1751,7 +1751,7 @@
   {
     "id": "helm-of-teleportation",
     "nameEn": "Helm of Teleportation",
-    "namePt": "",
+    "namePt": "Elmo do Teletransporte",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -1762,7 +1762,7 @@
   {
     "id": "heward-s-handy-haversack",
     "nameEn": "Heward's Handy Haversack",
-    "namePt": "",
+    "namePt": "Mochila Prática de Heward",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1773,7 +1773,7 @@
   {
     "id": "heward-s-handy-spice-pouch",
     "nameEn": "Heward's Handy Spice Pouch",
-    "namePt": "",
+    "namePt": "Bolsinha de Temperos Prática de Heward",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -1784,7 +1784,7 @@
   {
     "id": "holy-avenger",
     "nameEn": "Holy Avenger",
-    "namePt": "",
+    "namePt": "Vingadora Sagrada",
     "type": "weapon",
     "rarity": "legendary",
     "attunement": true,
@@ -1795,7 +1795,7 @@
   {
     "id": "horn-of-blasting",
     "nameEn": "Horn of Blasting",
-    "namePt": "",
+    "namePt": "Trompa da Explosão",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1806,7 +1806,7 @@
   {
     "id": "horn-of-silent-alarm",
     "nameEn": "Horn of Silent Alarm",
-    "namePt": "",
+    "namePt": "Trompa do Alarme Silencioso",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -1817,7 +1817,7 @@
   {
     "id": "horn-of-valhalla--brass",
     "nameEn": "Horn of Valhalla (Brass)",
-    "namePt": "",
+    "namePt": "Trompa de Valhalla (de Latão)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1828,7 +1828,7 @@
   {
     "id": "horn-of-valhalla--bronze",
     "nameEn": "Horn of Valhalla (Bronze)",
-    "namePt": "",
+    "namePt": "Trompa de Valhalla (de Bronze)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -1839,7 +1839,7 @@
   {
     "id": "horn-of-valhalla--iron",
     "nameEn": "Horn of Valhalla (Iron)",
-    "namePt": "",
+    "namePt": "Trompa de Valhalla (de Ferro)",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": false,
@@ -1850,7 +1850,7 @@
   {
     "id": "horn-of-valhalla--silver",
     "nameEn": "Horn of Valhalla (Silver)",
-    "namePt": "",
+    "namePt": "Trompa de Valhalla (de Prata)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1861,7 +1861,7 @@
   {
     "id": "horseshoes-of-a-zephyr",
     "nameEn": "Horseshoes of a Zephyr",
-    "namePt": "",
+    "namePt": "Ferraduras do Zéfiro",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -1872,7 +1872,7 @@
   {
     "id": "horseshoes-of-speed",
     "nameEn": "Horseshoes of Speed",
-    "namePt": "",
+    "namePt": "Ferraduras da Velocidade",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -1883,7 +1883,7 @@
   {
     "id": "immovable-rod",
     "nameEn": "Immovable Rod",
-    "namePt": "",
+    "namePt": "Bastão Imóvel",
     "type": "rod",
     "rarity": "uncommon",
     "attunement": false,
@@ -1894,7 +1894,7 @@
   {
     "id": "instrument-of-illusions",
     "nameEn": "Instrument of Illusions",
-    "namePt": "",
+    "namePt": "Instrumento de Ilusões",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -1905,7 +1905,7 @@
   {
     "id": "instrument-of-scribing",
     "nameEn": "Instrument of Scribing",
-    "namePt": "",
+    "namePt": "Instrumento de Escrita",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -1916,7 +1916,7 @@
   {
     "id": "instrument-of-the-bards--anstruth-harp",
     "nameEn": "Instrument of the Bards (Anstruth Harp)",
-    "namePt": "",
+    "namePt": "Instrumento dos Bardos (Harpa de Anstruth)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -1927,7 +1927,7 @@
   {
     "id": "instrument-of-the-bards--canaith-mandolin",
     "nameEn": "Instrument of the Bards (Canaith Mandolin)",
-    "namePt": "",
+    "namePt": "Instrumento dos Bardos (Bandolim de Canaith)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -1938,7 +1938,7 @@
   {
     "id": "instrument-of-the-bards--cli-lyre",
     "nameEn": "Instrument of the Bards (Cli Lyre)",
-    "namePt": "",
+    "namePt": "Instrumento dos Bardos (Lira de Cli)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -1949,7 +1949,7 @@
   {
     "id": "instrument-of-the-bards--doss-lute",
     "nameEn": "Instrument of the Bards (Doss Lute)",
-    "namePt": "",
+    "namePt": "Instrumento dos Bardos (Alaúde de Doss)",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1960,7 +1960,7 @@
   {
     "id": "instrument-of-the-bards--fochlucan-bandore",
     "nameEn": "Instrument of the Bards (Fochlucan Bandore)",
-    "namePt": "",
+    "namePt": "Instrumento dos Bardos (Bandurra de Fochlucan)",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1971,7 +1971,7 @@
   {
     "id": "instrument-of-the-bards--mac-fuirmidh-cittern",
     "nameEn": "Instrument of the Bards (Mac-Fuirmidh Cittern)",
-    "namePt": "",
+    "namePt": "Instrumento dos Bardos (Cítara de Mac-Fuirmidh)",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -1982,7 +1982,7 @@
   {
     "id": "instrument-of-the-bards--ollamh-harp",
     "nameEn": "Instrument of the Bards (Ollamh Harp)",
-    "namePt": "",
+    "namePt": "Instrumento dos Bardos (Harpa de Ollamh)",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -1993,7 +1993,7 @@
   {
     "id": "ioun-stone--absorption",
     "nameEn": "Ioun Stone (Absorption)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Absorção)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -2004,7 +2004,7 @@
   {
     "id": "ioun-stone--agility",
     "nameEn": "Ioun Stone (Agility)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Agilidade)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -2015,7 +2015,7 @@
   {
     "id": "ioun-stone--awareness",
     "nameEn": "Ioun Stone (Awareness)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Prontidão)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -2026,7 +2026,7 @@
   {
     "id": "ioun-stone--fortitude",
     "nameEn": "Ioun Stone (Fortitude)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Vigor)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -2037,7 +2037,7 @@
   {
     "id": "ioun-stone--greater-absorption",
     "nameEn": "Ioun Stone (Greater Absorption)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Absorção Maior)",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -2048,7 +2048,7 @@
   {
     "id": "ioun-stone--insight",
     "nameEn": "Ioun Stone (Insight)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Intuição)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -2059,7 +2059,7 @@
   {
     "id": "ioun-stone--intellect",
     "nameEn": "Ioun Stone (Intellect)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Intelecto)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -2070,7 +2070,7 @@
   {
     "id": "ioun-stone--leadership",
     "nameEn": "Ioun Stone (Leadership)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Liderança)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -2081,7 +2081,7 @@
   {
     "id": "ioun-stone--mastery",
     "nameEn": "Ioun Stone (Mastery)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Maestria)",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -2092,7 +2092,7 @@
   {
     "id": "ioun-stone--protection",
     "nameEn": "Ioun Stone (Protection)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Proteção)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -2103,7 +2103,7 @@
   {
     "id": "ioun-stone--regeneration",
     "nameEn": "Ioun Stone (Regeneration)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Regeneração)",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -2114,7 +2114,7 @@
   {
     "id": "ioun-stone--reserve",
     "nameEn": "Ioun Stone (Reserve)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Reserva)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -2125,7 +2125,7 @@
   {
     "id": "ioun-stone--strength",
     "nameEn": "Ioun Stone (Strength)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Força)",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -2136,7 +2136,7 @@
   {
     "id": "ioun-stone--sustenance",
     "nameEn": "Ioun Stone (Sustenance)",
-    "namePt": "",
+    "namePt": "Pedra Ioun (Sustento)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -2147,7 +2147,7 @@
   {
     "id": "iron-bands-of-bilarro",
     "nameEn": "Iron Bands of Bilarro",
-    "namePt": "",
+    "namePt": "Faixas de Ferro de Bilarro",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -2158,7 +2158,7 @@
   {
     "id": "iron-flask",
     "nameEn": "Iron Flask",
-    "namePt": "",
+    "namePt": "Frasco de Ferro",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": false,
@@ -2169,7 +2169,7 @@
   {
     "id": "javelin-of-lightning",
     "nameEn": "Javelin of Lightning",
-    "namePt": "",
+    "namePt": "Azagaia do Relâmpago",
     "type": "weapon",
     "rarity": "uncommon",
     "attunement": false,
@@ -2180,7 +2180,7 @@
   {
     "id": "keoghtom-s-ointment",
     "nameEn": "Keoghtom's Ointment",
-    "namePt": "",
+    "namePt": "Unguento de Keoghtom",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -2191,7 +2191,7 @@
   {
     "id": "lantern-of-revealing",
     "nameEn": "Lantern of Revealing",
-    "namePt": "",
+    "namePt": "Lanterna Reveladora",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -2202,7 +2202,7 @@
   {
     "id": "lock-of-trickery",
     "nameEn": "Lock of Trickery",
-    "namePt": "",
+    "namePt": "Fechadura Traiçoeira",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -2213,7 +2213,7 @@
   {
     "id": "luck-blade",
     "nameEn": "Luck Blade",
-    "namePt": "",
+    "namePt": "Lâmina da Sorte",
     "type": "weapon",
     "rarity": "legendary",
     "attunement": true,
@@ -2224,7 +2224,7 @@
   {
     "id": "lute-of-thunderous-thumping",
     "nameEn": "Lute of Thunderous Thumping",
-    "namePt": "",
+    "namePt": "Alaúde do Trovão Retumbante",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": false,
@@ -2235,7 +2235,7 @@
   {
     "id": "mace-of-disruption",
     "nameEn": "Mace of Disruption",
-    "namePt": "",
+    "namePt": "Maça da Ruptura",
     "type": "weapon",
     "rarity": "rare",
     "attunement": true,
@@ -2246,7 +2246,7 @@
   {
     "id": "mace-of-smiting",
     "nameEn": "Mace of Smiting",
-    "namePt": "",
+    "namePt": "Maça do Castigo",
     "type": "weapon",
     "rarity": "rare",
     "attunement": false,
@@ -2257,7 +2257,7 @@
   {
     "id": "mace-of-terror",
     "nameEn": "Mace of Terror",
-    "namePt": "",
+    "namePt": "Maça do Terror",
     "type": "weapon",
     "rarity": "rare",
     "attunement": true,
@@ -2268,7 +2268,7 @@
   {
     "id": "mantle-of-spell-resistance",
     "nameEn": "Mantle of Spell Resistance",
-    "namePt": "",
+    "namePt": "Mantelete de Resistência à Magia",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -2279,7 +2279,7 @@
   {
     "id": "manual-of-bodily-health",
     "nameEn": "Manual of Bodily Health",
-    "namePt": "",
+    "namePt": "Manual da Saúde Corporal",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -2290,7 +2290,7 @@
   {
     "id": "manual-of-gainful-exercise",
     "nameEn": "Manual of Gainful Exercise",
-    "namePt": "",
+    "namePt": "Manual do Exercício Proveitoso",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -2301,7 +2301,7 @@
   {
     "id": "manual-of-golems",
     "nameEn": "Manual of Golems",
-    "namePt": "",
+    "namePt": "Manual dos Golens",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -2312,7 +2312,7 @@
   {
     "id": "manual-of-quickness-of-action",
     "nameEn": "Manual of Quickness of Action",
-    "namePt": "",
+    "namePt": "Manual da Rapidez de Ação",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -2323,7 +2323,7 @@
   {
     "id": "mariner-s-armor",
     "nameEn": "Mariner's Armor",
-    "namePt": "",
+    "namePt": "Armadura do Marinheiro",
     "type": "armor",
     "rarity": "uncommon",
     "attunement": false,
@@ -2334,7 +2334,7 @@
   {
     "id": "medallion-of-thoughts",
     "nameEn": "Medallion of Thoughts",
-    "namePt": "",
+    "namePt": "Medalhão dos Pensamentos",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -2345,7 +2345,7 @@
   {
     "id": "mirror-of-life-trapping",
     "nameEn": "Mirror of Life Trapping",
-    "namePt": "",
+    "namePt": "Espelho Aprisionador de Vidas",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -2356,7 +2356,7 @@
   {
     "id": "mithral-armor",
     "nameEn": "Mithral Armor",
-    "namePt": "",
+    "namePt": "Armadura de Mithral",
     "type": "armor",
     "rarity": "uncommon",
     "attunement": false,
@@ -2367,7 +2367,7 @@
   {
     "id": "moon-touched-sword",
     "nameEn": "Moon-Touched Sword",
-    "namePt": "",
+    "namePt": "Espada Tocada pela Lua",
     "type": "weapon",
     "rarity": "common",
     "attunement": false,
@@ -2378,7 +2378,7 @@
   {
     "id": "moonblade",
     "nameEn": "Moonblade",
-    "namePt": "",
+    "namePt": "Lâmina Lunar",
     "type": "weapon",
     "rarity": "legendary",
     "attunement": true,
@@ -2389,7 +2389,7 @@
   {
     "id": "mystery-key",
     "nameEn": "Mystery Key",
-    "namePt": "",
+    "namePt": "Chave Misteriosa",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -2400,7 +2400,7 @@
   {
     "id": "nature-s-mantle",
     "nameEn": "Nature's Mantle",
-    "namePt": "",
+    "namePt": "Mantelete da Natureza",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -2411,7 +2411,7 @@
   {
     "id": "necklace-of-adaptation",
     "nameEn": "Necklace of Adaptation",
-    "namePt": "",
+    "namePt": "Colar da Adaptação",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -2422,7 +2422,7 @@
   {
     "id": "necklace-of-fireballs",
     "nameEn": "Necklace of Fireballs",
-    "namePt": "",
+    "namePt": "Colar de Bolas de Fogo",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -2433,7 +2433,7 @@
   {
     "id": "necklace-of-prayer-beads",
     "nameEn": "Necklace of Prayer Beads",
-    "namePt": "",
+    "namePt": "Colar de Contas de Oração",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -2444,7 +2444,7 @@
   {
     "id": "nine-lives-stealer",
     "nameEn": "Nine Lives Stealer",
-    "namePt": "",
+    "namePt": "Ladra de Nove Vidas",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -2455,7 +2455,7 @@
   {
     "id": "nolzur-s-marvelous-pigments",
     "nameEn": "Nolzur's Marvelous Pigments",
-    "namePt": "",
+    "namePt": "Pigmentos Maravilhosos de Nolzur",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -2466,7 +2466,7 @@
   {
     "id": "oathbow",
     "nameEn": "Oathbow",
-    "namePt": "",
+    "namePt": "Arco do Juramento",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -2477,7 +2477,7 @@
   {
     "id": "oil-of-etherealness",
     "nameEn": "Oil of Etherealness",
-    "namePt": "",
+    "namePt": "Óleo da Etereidade",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2488,7 +2488,7 @@
   {
     "id": "oil-of-sharpness",
     "nameEn": "Oil of Sharpness",
-    "namePt": "",
+    "namePt": "Óleo da Afiação",
     "type": "potion",
     "rarity": "very_rare",
     "attunement": false,
@@ -2499,7 +2499,7 @@
   {
     "id": "oil-of-slipperiness",
     "nameEn": "Oil of Slipperiness",
-    "namePt": "",
+    "namePt": "Óleo Escorregadio",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2510,7 +2510,7 @@
   {
     "id": "orb-of-direction",
     "nameEn": "Orb of Direction",
-    "namePt": "",
+    "namePt": "Orbe da Direção",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -2521,7 +2521,7 @@
   {
     "id": "orb-of-dragonkind",
     "nameEn": "Orb of Dragonkind",
-    "namePt": "",
+    "namePt": "Orbe dos Dragões",
     "type": "wondrous",
     "rarity": "artifact",
     "attunement": true,
@@ -2532,7 +2532,7 @@
   {
     "id": "orb-of-time",
     "nameEn": "Orb of Time",
-    "namePt": "",
+    "namePt": "Orbe do Tempo",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -2543,7 +2543,7 @@
   {
     "id": "pearl-of-power",
     "nameEn": "Pearl of Power",
-    "namePt": "",
+    "namePt": "Pérola do Poder",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -2554,7 +2554,7 @@
   {
     "id": "perfume-of-bewitching",
     "nameEn": "Perfume of Bewitching",
-    "namePt": "",
+    "namePt": "Perfume do Enfeitiçamento",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -2565,7 +2565,7 @@
   {
     "id": "periapt-of-health",
     "nameEn": "Periapt of Health",
-    "namePt": "",
+    "namePt": "Periapto da Saúde",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -2576,7 +2576,7 @@
   {
     "id": "periapt-of-proof-against-poison",
     "nameEn": "Periapt of Proof against Poison",
-    "namePt": "",
+    "namePt": "Periapto contra Veneno",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -2587,7 +2587,7 @@
   {
     "id": "periapt-of-wound-closure",
     "nameEn": "Periapt of Wound Closure",
-    "namePt": "",
+    "namePt": "Periapto de Fechar Ferimentos",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -2598,7 +2598,7 @@
   {
     "id": "philter-of-love",
     "nameEn": "Philter of Love",
-    "namePt": "",
+    "namePt": "Filtro do Amor",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2609,7 +2609,7 @@
   {
     "id": "pipe-of-smoke-monsters",
     "nameEn": "Pipe of Smoke Monsters",
-    "namePt": "",
+    "namePt": "Cachimbo de Monstros de Fumaça",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -2620,7 +2620,7 @@
   {
     "id": "pipes-of-haunting",
     "nameEn": "Pipes of Haunting",
-    "namePt": "",
+    "namePt": "Flauta Assombrosa",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -2631,7 +2631,7 @@
   {
     "id": "pipes-of-the-sewers",
     "nameEn": "Pipes of the Sewers",
-    "namePt": "",
+    "namePt": "Flauta dos Esgotos",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -2642,7 +2642,7 @@
   {
     "id": "plate-armor-of-etherealness",
     "nameEn": "Plate Armor of Etherealness",
-    "namePt": "",
+    "namePt": "Armadura de Placas da Etereidade",
     "type": "armor",
     "rarity": "legendary",
     "attunement": true,
@@ -2653,7 +2653,7 @@
   {
     "id": "pole-of-angling",
     "nameEn": "Pole of Angling",
-    "namePt": "",
+    "namePt": "Vara de Pescar",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -2664,7 +2664,7 @@
   {
     "id": "pole-of-collapsing",
     "nameEn": "Pole of Collapsing",
-    "namePt": "",
+    "namePt": "Vara Retrátil",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -2675,7 +2675,7 @@
   {
     "id": "portable-hole",
     "nameEn": "Portable Hole",
-    "namePt": "",
+    "namePt": "Buraco Portátil",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -2686,7 +2686,7 @@
   {
     "id": "pot-of-awakening",
     "nameEn": "Pot of Awakening",
-    "namePt": "",
+    "namePt": "Vaso do Despertar",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -2697,7 +2697,7 @@
   {
     "id": "potion-of-animal-friendship",
     "nameEn": "Potion of Animal Friendship",
-    "namePt": "",
+    "namePt": "Poção de Amizade Animal",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2708,7 +2708,7 @@
   {
     "id": "potion-of-clairvoyance",
     "nameEn": "Potion of Clairvoyance",
-    "namePt": "",
+    "namePt": "Poção de Clarividência",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2719,7 +2719,7 @@
   {
     "id": "potion-of-climbing",
     "nameEn": "Potion of Climbing",
-    "namePt": "",
+    "namePt": "Poção de Escalada",
     "type": "potion",
     "rarity": "common",
     "attunement": false,
@@ -2730,7 +2730,7 @@
   {
     "id": "potion-of-comprehension",
     "nameEn": "Potion of Comprehension",
-    "namePt": "",
+    "namePt": "Poção de Compreensão",
     "type": "potion",
     "rarity": "common",
     "attunement": false,
@@ -2741,7 +2741,7 @@
   {
     "id": "potion-of-diminution",
     "nameEn": "Potion of Diminution",
-    "namePt": "",
+    "namePt": "Poção de Diminuição",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2752,7 +2752,7 @@
   {
     "id": "potion-of-fire-breath",
     "nameEn": "Potion of Fire Breath",
-    "namePt": "",
+    "namePt": "Poção de Sopro de Fogo",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2763,7 +2763,7 @@
   {
     "id": "potion-of-flying",
     "nameEn": "Potion of Flying",
-    "namePt": "",
+    "namePt": "Poção de Voo",
     "type": "potion",
     "rarity": "very_rare",
     "attunement": false,
@@ -2774,7 +2774,7 @@
   {
     "id": "potion-of-gaseous-form",
     "nameEn": "Potion of Gaseous Form",
-    "namePt": "",
+    "namePt": "Poção de Forma Gasosa",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2785,7 +2785,7 @@
   {
     "id": "potion-of-giant-strength--cloud",
     "nameEn": "Potion of Giant Strength (Cloud)",
-    "namePt": "",
+    "namePt": "Poção de Força do Gigante (das Nuvens)",
     "type": "potion",
     "rarity": "very_rare",
     "attunement": false,
@@ -2796,7 +2796,7 @@
   {
     "id": "potion-of-giant-strength--fire",
     "nameEn": "Potion of Giant Strength (Fire)",
-    "namePt": "",
+    "namePt": "Poção de Força do Gigante (do Fogo)",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2807,7 +2807,7 @@
   {
     "id": "potion-of-giant-strength--frost",
     "nameEn": "Potion of Giant Strength (Frost)",
-    "namePt": "",
+    "namePt": "Poção de Força do Gigante (do Gelo)",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2818,7 +2818,7 @@
   {
     "id": "potion-of-giant-strength--hill",
     "nameEn": "Potion of Giant Strength (Hill)",
-    "namePt": "",
+    "namePt": "Poção de Força do Gigante (da Colina)",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2829,7 +2829,7 @@
   {
     "id": "potion-of-giant-strength--stone",
     "nameEn": "Potion of Giant Strength (Stone)",
-    "namePt": "",
+    "namePt": "Poção de Força do Gigante (de Pedra)",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2840,7 +2840,7 @@
   {
     "id": "potion-of-giant-strength--storm",
     "nameEn": "Potion of Giant Strength (Storm)",
-    "namePt": "",
+    "namePt": "Poção de Força do Gigante (da Tempestade)",
     "type": "potion",
     "rarity": "legendary",
     "attunement": false,
@@ -2851,7 +2851,7 @@
   {
     "id": "potion-of-greater-invisibility",
     "nameEn": "Potion of Greater Invisibility",
-    "namePt": "",
+    "namePt": "Poção de Invisibilidade Maior",
     "type": "potion",
     "rarity": "very_rare",
     "attunement": false,
@@ -2862,7 +2862,7 @@
   {
     "id": "potion-of-growth",
     "nameEn": "Potion of Growth",
-    "namePt": "",
+    "namePt": "Poção de Crescimento",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2873,7 +2873,7 @@
   {
     "id": "potion-of-heroism",
     "nameEn": "Potion of Heroism",
-    "namePt": "",
+    "namePt": "Poção de Heroísmo",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2884,7 +2884,7 @@
   {
     "id": "potion-of-invisibility",
     "nameEn": "Potion of Invisibility",
-    "namePt": "",
+    "namePt": "Poção de Invisibilidade",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2895,7 +2895,7 @@
   {
     "id": "potion-of-invulnerability",
     "nameEn": "Potion of Invulnerability",
-    "namePt": "",
+    "namePt": "Poção de Invulnerabilidade",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2906,7 +2906,7 @@
   {
     "id": "potion-of-longevity",
     "nameEn": "Potion of Longevity",
-    "namePt": "",
+    "namePt": "Poção de Longevidade",
     "type": "potion",
     "rarity": "very_rare",
     "attunement": false,
@@ -2917,7 +2917,7 @@
   {
     "id": "potion-of-mind-reading",
     "nameEn": "Potion of Mind Reading",
-    "namePt": "",
+    "namePt": "Poção de Leitura Mental",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -2928,7 +2928,7 @@
   {
     "id": "potion-of-poison",
     "nameEn": "Potion of Poison",
-    "namePt": "",
+    "namePt": "Poção de Veneno",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2939,7 +2939,7 @@
   {
     "id": "potion-of-pugilism",
     "nameEn": "Potion of Pugilism",
-    "namePt": "",
+    "namePt": "Poção de Pugilismo",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2950,7 +2950,7 @@
   {
     "id": "potion-of-resistance",
     "nameEn": "Potion of Resistance",
-    "namePt": "",
+    "namePt": "Poção de Resistência",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2961,7 +2961,7 @@
   {
     "id": "potion-of-speed",
     "nameEn": "Potion of Speed",
-    "namePt": "",
+    "namePt": "Poção de Velocidade",
     "type": "potion",
     "rarity": "very_rare",
     "attunement": false,
@@ -2972,7 +2972,7 @@
   {
     "id": "potion-of-vitality",
     "nameEn": "Potion of Vitality",
-    "namePt": "",
+    "namePt": "Poção de Vitalidade",
     "type": "potion",
     "rarity": "very_rare",
     "attunement": false,
@@ -2983,7 +2983,7 @@
   {
     "id": "potion-of-water-breathing",
     "nameEn": "Potion of Water Breathing",
-    "namePt": "",
+    "namePt": "Poção de Respirar na Água",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -2994,7 +2994,7 @@
   {
     "id": "potions-of-healing--greater",
     "nameEn": "Potion of Healing (Greater)",
-    "namePt": "",
+    "namePt": "Poção de Cura (Maior)",
     "type": "potion",
     "rarity": "uncommon",
     "attunement": false,
@@ -3005,7 +3005,7 @@
   {
     "id": "potions-of-healing--healing",
     "nameEn": "Potion of Healing",
-    "namePt": "",
+    "namePt": "Poção de Cura",
     "type": "potion",
     "rarity": "common",
     "attunement": false,
@@ -3016,7 +3016,7 @@
   {
     "id": "potions-of-healing--superior",
     "nameEn": "Potion of Healing (Superior)",
-    "namePt": "",
+    "namePt": "Poção de Cura (Superior)",
     "type": "potion",
     "rarity": "rare",
     "attunement": false,
@@ -3027,7 +3027,7 @@
   {
     "id": "potions-of-healing--supreme",
     "nameEn": "Potion of Healing (Supreme)",
-    "namePt": "",
+    "namePt": "Poção de Cura (Suprema)",
     "type": "potion",
     "rarity": "very_rare",
     "attunement": false,
@@ -3038,7 +3038,7 @@
   {
     "id": "prosthetic-limb",
     "nameEn": "Prosthetic Limb",
-    "namePt": "",
+    "namePt": "Membro Protético",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -3049,7 +3049,7 @@
   {
     "id": "quaal-s-feather-token--anchor",
     "nameEn": "Quaal's Feather Token (Anchor)",
-    "namePt": "",
+    "namePt": "Símbolo de Pena de Quaal (Âncora)",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -3060,7 +3060,7 @@
   {
     "id": "quaal-s-feather-token--bird",
     "nameEn": "Quaal's Feather Token (Bird)",
-    "namePt": "",
+    "namePt": "Símbolo de Pena de Quaal (Pássaro)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -3071,7 +3071,7 @@
   {
     "id": "quaal-s-feather-token--fan",
     "nameEn": "Quaal's Feather Token (Fan)",
-    "namePt": "",
+    "namePt": "Símbolo de Pena de Quaal (Leque)",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -3082,7 +3082,7 @@
   {
     "id": "quaal-s-feather-token--swan-boat",
     "nameEn": "Quaal's Feather Token (Swan Boat)",
-    "namePt": "",
+    "namePt": "Símbolo de Pena de Quaal (Barco-Cisne)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -3093,7 +3093,7 @@
   {
     "id": "quaal-s-feather-token--tree",
     "nameEn": "Quaal's Feather Token (Tree)",
-    "namePt": "",
+    "namePt": "Símbolo de Pena de Quaal (Árvore)",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -3104,7 +3104,7 @@
   {
     "id": "quaal-s-feather-token--whip",
     "nameEn": "Quaal's Feather Token (Whip)",
-    "namePt": "",
+    "namePt": "Símbolo de Pena de Quaal (Chicote)",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -3115,7 +3115,7 @@
   {
     "id": "quarterstaff-of-the-acrobat",
     "nameEn": "Quarterstaff of the Acrobat",
-    "namePt": "",
+    "namePt": "Bordão do Acrobata",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -3126,7 +3126,7 @@
   {
     "id": "quiver-of-ehlonna",
     "nameEn": "Quiver of Ehlonna",
-    "namePt": "",
+    "namePt": "Aljava de Ehlonna",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -3137,7 +3137,7 @@
   {
     "id": "ring-of-animal-influence",
     "nameEn": "Ring of Animal Influence",
-    "namePt": "",
+    "namePt": "Anel de Influência Animal",
     "type": "ring",
     "rarity": "rare",
     "attunement": false,
@@ -3148,7 +3148,7 @@
   {
     "id": "ring-of-djinni-summoning",
     "nameEn": "Ring of Djinni Summoning",
-    "namePt": "",
+    "namePt": "Anel de Invocação de Djinni",
     "type": "ring",
     "rarity": "legendary",
     "attunement": true,
@@ -3159,7 +3159,7 @@
   {
     "id": "ring-of-elemental-command",
     "nameEn": "Ring of Elemental Command",
-    "namePt": "",
+    "namePt": "Anel de Comando Elemental",
     "type": "ring",
     "rarity": "legendary",
     "attunement": true,
@@ -3170,7 +3170,7 @@
   {
     "id": "ring-of-evasion",
     "nameEn": "Ring of Evasion",
-    "namePt": "",
+    "namePt": "Anel de Evasão",
     "type": "ring",
     "rarity": "rare",
     "attunement": true,
@@ -3181,7 +3181,7 @@
   {
     "id": "ring-of-feather-falling",
     "nameEn": "Ring of Feather Falling",
-    "namePt": "",
+    "namePt": "Anel de Queda Suave",
     "type": "ring",
     "rarity": "rare",
     "attunement": true,
@@ -3192,7 +3192,7 @@
   {
     "id": "ring-of-free-action",
     "nameEn": "Ring of Free Action",
-    "namePt": "",
+    "namePt": "Anel de Ação Livre",
     "type": "ring",
     "rarity": "rare",
     "attunement": true,
@@ -3203,7 +3203,7 @@
   {
     "id": "ring-of-invisibility",
     "nameEn": "Ring of Invisibility",
-    "namePt": "",
+    "namePt": "Anel de Invisibilidade",
     "type": "ring",
     "rarity": "legendary",
     "attunement": true,
@@ -3214,7 +3214,7 @@
   {
     "id": "ring-of-jumping",
     "nameEn": "Ring of Jumping",
-    "namePt": "",
+    "namePt": "Anel do Salto",
     "type": "ring",
     "rarity": "uncommon",
     "attunement": true,
@@ -3225,7 +3225,7 @@
   {
     "id": "ring-of-mind-shielding",
     "nameEn": "Ring of Mind Shielding",
-    "namePt": "",
+    "namePt": "Anel de Proteção Mental",
     "type": "ring",
     "rarity": "uncommon",
     "attunement": true,
@@ -3236,7 +3236,7 @@
   {
     "id": "ring-of-protection",
     "nameEn": "Ring of Protection",
-    "namePt": "",
+    "namePt": "Anel de Proteção",
     "type": "ring",
     "rarity": "rare",
     "attunement": true,
@@ -3247,7 +3247,7 @@
   {
     "id": "ring-of-regeneration",
     "nameEn": "Ring of Regeneration",
-    "namePt": "",
+    "namePt": "Anel de Regeneração",
     "type": "ring",
     "rarity": "very_rare",
     "attunement": true,
@@ -3258,7 +3258,7 @@
   {
     "id": "ring-of-resistance",
     "nameEn": "Ring of Resistance",
-    "namePt": "",
+    "namePt": "Anel de Resistência",
     "type": "ring",
     "rarity": "rare",
     "attunement": false,
@@ -3269,7 +3269,7 @@
   {
     "id": "ring-of-shooting-stars",
     "nameEn": "Ring of Shooting Stars",
-    "namePt": "",
+    "namePt": "Anel das Estrelas Cadentes",
     "type": "ring",
     "rarity": "very_rare",
     "attunement": true,
@@ -3280,7 +3280,7 @@
   {
     "id": "ring-of-spell-storing",
     "nameEn": "Ring of Spell Storing",
-    "namePt": "",
+    "namePt": "Anel de Armazenar Magias",
     "type": "ring",
     "rarity": "rare",
     "attunement": true,
@@ -3291,7 +3291,7 @@
   {
     "id": "ring-of-spell-turning",
     "nameEn": "Ring of Spell Turning",
-    "namePt": "",
+    "namePt": "Anel de Reflexão de Magias",
     "type": "ring",
     "rarity": "legendary",
     "attunement": true,
@@ -3302,7 +3302,7 @@
   {
     "id": "ring-of-swimming",
     "nameEn": "Ring of Swimming",
-    "namePt": "",
+    "namePt": "Anel de Natação",
     "type": "ring",
     "rarity": "uncommon",
     "attunement": false,
@@ -3313,7 +3313,7 @@
   {
     "id": "ring-of-telekinesis",
     "nameEn": "Ring of Telekinesis",
-    "namePt": "",
+    "namePt": "Anel de Telecinésia",
     "type": "ring",
     "rarity": "very_rare",
     "attunement": true,
@@ -3324,7 +3324,7 @@
   {
     "id": "ring-of-the-ram",
     "nameEn": "Ring of the Ram",
-    "namePt": "",
+    "namePt": "Anel do Carneiro",
     "type": "ring",
     "rarity": "rare",
     "attunement": true,
@@ -3335,7 +3335,7 @@
   {
     "id": "ring-of-three-wishes",
     "nameEn": "Ring of Three Wishes",
-    "namePt": "",
+    "namePt": "Anel dos Três Desejos",
     "type": "ring",
     "rarity": "legendary",
     "attunement": false,
@@ -3346,7 +3346,7 @@
   {
     "id": "ring-of-warmth",
     "nameEn": "Ring of Warmth",
-    "namePt": "",
+    "namePt": "Anel do Calor",
     "type": "ring",
     "rarity": "uncommon",
     "attunement": true,
@@ -3357,7 +3357,7 @@
   {
     "id": "ring-of-water-walking",
     "nameEn": "Ring of Water Walking",
-    "namePt": "",
+    "namePt": "Anel de Andar na Água",
     "type": "ring",
     "rarity": "uncommon",
     "attunement": false,
@@ -3368,7 +3368,7 @@
   {
     "id": "ring-of-x-ray-vision",
     "nameEn": "Ring of X-ray Vision",
-    "namePt": "",
+    "namePt": "Anel de Visão de Raio X",
     "type": "ring",
     "rarity": "rare",
     "attunement": true,
@@ -3379,7 +3379,7 @@
   {
     "id": "rival-coin",
     "nameEn": "Rival Coin",
-    "namePt": "",
+    "namePt": "Moeda Rival",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -3390,7 +3390,7 @@
   {
     "id": "robe-of-eyes",
     "nameEn": "Robe of Eyes",
-    "namePt": "",
+    "namePt": "Túnica de Olhos",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -3401,7 +3401,7 @@
   {
     "id": "robe-of-scintillating-colors",
     "nameEn": "Robe of Scintillating Colors",
-    "namePt": "",
+    "namePt": "Túnica de Cores Cintilantes",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -3412,7 +3412,7 @@
   {
     "id": "robe-of-stars",
     "nameEn": "Robe of Stars",
-    "namePt": "",
+    "namePt": "Túnica das Estrelas",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": true,
@@ -3423,7 +3423,7 @@
   {
     "id": "robe-of-the-archmagi",
     "nameEn": "Robe of the Archmagi",
-    "namePt": "",
+    "namePt": "Túnica do Arquimago",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -3434,7 +3434,7 @@
   {
     "id": "robe-of-useful-items",
     "nameEn": "Robe of Useful Items",
-    "namePt": "",
+    "namePt": "Túnica de Itens Úteis",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -3445,7 +3445,7 @@
   {
     "id": "rod-of-absorption",
     "nameEn": "Rod of Absorption",
-    "namePt": "",
+    "namePt": "Bastão de Absorção",
     "type": "rod",
     "rarity": "very_rare",
     "attunement": true,
@@ -3456,7 +3456,7 @@
   {
     "id": "rod-of-alertness",
     "nameEn": "Rod of Alertness",
-    "namePt": "",
+    "namePt": "Bastão do Alerta",
     "type": "rod",
     "rarity": "very_rare",
     "attunement": true,
@@ -3467,7 +3467,7 @@
   {
     "id": "rod-of-lordly-might",
     "nameEn": "Rod of Lordly Might",
-    "namePt": "",
+    "namePt": "Bastão do Poder Senhorial",
     "type": "rod",
     "rarity": "legendary",
     "attunement": true,
@@ -3478,7 +3478,7 @@
   {
     "id": "rod-of-resurrection",
     "nameEn": "Rod of Resurrection",
-    "namePt": "",
+    "namePt": "Bastão da Ressurreição",
     "type": "rod",
     "rarity": "legendary",
     "attunement": true,
@@ -3489,7 +3489,7 @@
   {
     "id": "rod-of-rulership",
     "nameEn": "Rod of Rulership",
-    "namePt": "",
+    "namePt": "Bastão do Domínio",
     "type": "rod",
     "rarity": "rare",
     "attunement": true,
@@ -3500,7 +3500,7 @@
   {
     "id": "rod-of-security",
     "nameEn": "Rod of Security",
-    "namePt": "",
+    "namePt": "Bastão da Segurança",
     "type": "rod",
     "rarity": "very_rare",
     "attunement": false,
@@ -3511,7 +3511,7 @@
   {
     "id": "rod-of-the-pact-keeper--plus-1",
     "nameEn": "Rod of the Pact Keeper +1",
-    "namePt": "",
+    "namePt": "Bastão do Guardião do Pacto +1",
     "type": "rod",
     "rarity": "uncommon",
     "attunement": true,
@@ -3522,7 +3522,7 @@
   {
     "id": "rod-of-the-pact-keeper--plus-2",
     "nameEn": "Rod of the Pact Keeper +2",
-    "namePt": "",
+    "namePt": "Bastão do Guardião do Pacto +2",
     "type": "rod",
     "rarity": "rare",
     "attunement": true,
@@ -3533,7 +3533,7 @@
   {
     "id": "rod-of-the-pact-keeper--plus-3",
     "nameEn": "Rod of the Pact Keeper +3",
-    "namePt": "",
+    "namePt": "Bastão do Guardião do Pacto +3",
     "type": "rod",
     "rarity": "very_rare",
     "attunement": true,
@@ -3544,7 +3544,7 @@
   {
     "id": "rope-of-climbing",
     "nameEn": "Rope of Climbing",
-    "namePt": "",
+    "namePt": "Corda de Escalada",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -3555,7 +3555,7 @@
   {
     "id": "rope-of-entanglement",
     "nameEn": "Rope of Entanglement",
-    "namePt": "",
+    "namePt": "Corda Enredante",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -3566,7 +3566,7 @@
   {
     "id": "rope-of-mending",
     "nameEn": "Rope of Mending",
-    "namePt": "",
+    "namePt": "Corda Autorreparável",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -3577,7 +3577,7 @@
   {
     "id": "ruby-of-the-war-mage",
     "nameEn": "Ruby of the War Mage",
-    "namePt": "",
+    "namePt": "Rubi do Mago de Guerra",
     "type": "wondrous",
     "rarity": "common",
     "attunement": true,
@@ -3588,7 +3588,7 @@
   {
     "id": "saddle-of-the-cavalier",
     "nameEn": "Saddle of the Cavalier",
-    "namePt": "",
+    "namePt": "Sela do Cavaleiro",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -3599,7 +3599,7 @@
   {
     "id": "scarab-of-protection",
     "nameEn": "Scarab of Protection",
-    "namePt": "",
+    "namePt": "Escaravelho de Proteção",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -3610,7 +3610,7 @@
   {
     "id": "scimitar-of-speed",
     "nameEn": "Scimitar of Speed",
-    "namePt": "",
+    "namePt": "Cimitarra da Velocidade",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -3621,7 +3621,7 @@
   {
     "id": "scroll-of-protection",
     "nameEn": "Scroll of Protection",
-    "namePt": "",
+    "namePt": "Pergaminho de Proteção",
     "type": "scroll",
     "rarity": "rare",
     "attunement": false,
@@ -3632,7 +3632,7 @@
   {
     "id": "scroll-of-titan-summoning",
     "nameEn": "Scroll of Titan Summoning",
-    "namePt": "",
+    "namePt": "Pergaminho de Invocação de Titã",
     "type": "scroll",
     "rarity": "legendary",
     "attunement": false,
@@ -3643,7 +3643,7 @@
   {
     "id": "sending-stones",
     "nameEn": "Sending Stones",
-    "namePt": "",
+    "namePt": "Pedras de Mensagem",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -3654,7 +3654,7 @@
   {
     "id": "sentinel-shield",
     "nameEn": "Sentinel Shield",
-    "namePt": "",
+    "namePt": "Escudo Sentinela",
     "type": "armor",
     "rarity": "uncommon",
     "attunement": false,
@@ -3665,7 +3665,7 @@
   {
     "id": "shield-1-2-or-3--plus-1",
     "nameEn": "Shield +1",
-    "namePt": "",
+    "namePt": "Escudo +1",
     "type": "armor",
     "rarity": "uncommon",
     "attunement": false,
@@ -3676,7 +3676,7 @@
   {
     "id": "shield-1-2-or-3--plus-2",
     "nameEn": "Shield +2",
-    "namePt": "",
+    "namePt": "Escudo +2",
     "type": "armor",
     "rarity": "rare",
     "attunement": false,
@@ -3687,7 +3687,7 @@
   {
     "id": "shield-1-2-or-3--plus-3",
     "nameEn": "Shield +3",
-    "namePt": "",
+    "namePt": "Escudo +3",
     "type": "armor",
     "rarity": "very_rare",
     "attunement": false,
@@ -3698,7 +3698,7 @@
   {
     "id": "shield-of-expression",
     "nameEn": "Shield of Expression",
-    "namePt": "",
+    "namePt": "Escudo Expressivo",
     "type": "armor",
     "rarity": "common",
     "attunement": false,
@@ -3709,7 +3709,7 @@
   {
     "id": "shield-of-missile-attraction",
     "nameEn": "Shield of Missile Attraction",
-    "namePt": "",
+    "namePt": "Escudo de Atração de Projéteis",
     "type": "armor",
     "rarity": "rare",
     "attunement": true,
@@ -3720,7 +3720,7 @@
   {
     "id": "shield-of-the-cavalier",
     "nameEn": "Shield of the Cavalier",
-    "namePt": "",
+    "namePt": "Escudo do Cavaleiro",
     "type": "armor",
     "rarity": "very_rare",
     "attunement": true,
@@ -3731,7 +3731,7 @@
   {
     "id": "silvered-weapon",
     "nameEn": "Silvered Weapon",
-    "namePt": "",
+    "namePt": "Arma Prateada",
     "type": "weapon",
     "rarity": "common",
     "attunement": false,
@@ -3742,7 +3742,7 @@
   {
     "id": "slippers-of-spider-climbing",
     "nameEn": "Slippers of Spider Climbing",
-    "namePt": "",
+    "namePt": "Sapatilhas de Patas de Aranha",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -3753,7 +3753,7 @@
   {
     "id": "smoldering-armor",
     "nameEn": "Smoldering Armor",
-    "namePt": "",
+    "namePt": "Armadura Fumegante",
     "type": "armor",
     "rarity": "common",
     "attunement": false,
@@ -3764,7 +3764,7 @@
   {
     "id": "sovereign-glue",
     "nameEn": "Sovereign Glue",
-    "namePt": "",
+    "namePt": "Cola Soberana",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": false,
@@ -3775,7 +3775,7 @@
   {
     "id": "spell-scroll--cantrip",
     "nameEn": "Spell Scroll (Cantrip)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Truque)",
     "type": "scroll",
     "rarity": "common",
     "attunement": false,
@@ -3786,7 +3786,7 @@
   {
     "id": "spell-scroll--level-1",
     "nameEn": "Spell Scroll (Level 1)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Nível 1)",
     "type": "scroll",
     "rarity": "common",
     "attunement": false,
@@ -3797,7 +3797,7 @@
   {
     "id": "spell-scroll--level-2",
     "nameEn": "Spell Scroll (Level 2)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Nível 2)",
     "type": "scroll",
     "rarity": "uncommon",
     "attunement": false,
@@ -3808,7 +3808,7 @@
   {
     "id": "spell-scroll--level-3",
     "nameEn": "Spell Scroll (Level 3)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Nível 3)",
     "type": "scroll",
     "rarity": "uncommon",
     "attunement": false,
@@ -3819,7 +3819,7 @@
   {
     "id": "spell-scroll--level-4",
     "nameEn": "Spell Scroll (Level 4)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Nível 4)",
     "type": "scroll",
     "rarity": "rare",
     "attunement": false,
@@ -3830,7 +3830,7 @@
   {
     "id": "spell-scroll--level-5",
     "nameEn": "Spell Scroll (Level 5)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Nível 5)",
     "type": "scroll",
     "rarity": "rare",
     "attunement": false,
@@ -3841,7 +3841,7 @@
   {
     "id": "spell-scroll--level-6",
     "nameEn": "Spell Scroll (Level 6)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Nível 6)",
     "type": "scroll",
     "rarity": "very_rare",
     "attunement": false,
@@ -3852,7 +3852,7 @@
   {
     "id": "spell-scroll--level-7",
     "nameEn": "Spell Scroll (Level 7)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Nível 7)",
     "type": "scroll",
     "rarity": "very_rare",
     "attunement": false,
@@ -3863,7 +3863,7 @@
   {
     "id": "spell-scroll--level-8",
     "nameEn": "Spell Scroll (Level 8)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Nível 8)",
     "type": "scroll",
     "rarity": "very_rare",
     "attunement": false,
@@ -3874,7 +3874,7 @@
   {
     "id": "spell-scroll--level-9",
     "nameEn": "Spell Scroll (Level 9)",
-    "namePt": "",
+    "namePt": "Pergaminho de Magia (Nível 9)",
     "type": "scroll",
     "rarity": "legendary",
     "attunement": false,
@@ -3885,7 +3885,7 @@
   {
     "id": "spellguard-shield",
     "nameEn": "Spellguard Shield",
-    "namePt": "",
+    "namePt": "Escudo Guarda-Magia",
     "type": "armor",
     "rarity": "very_rare",
     "attunement": true,
@@ -3896,7 +3896,7 @@
   {
     "id": "sphere-of-annihilation",
     "nameEn": "Sphere of Annihilation",
-    "namePt": "",
+    "namePt": "Esfera da Aniquilação",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": false,
@@ -3907,7 +3907,7 @@
   {
     "id": "spirit-board",
     "nameEn": "Spirit Board",
-    "namePt": "",
+    "namePt": "Tabuleiro Espiritual",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -3918,7 +3918,7 @@
   {
     "id": "staff-of-adornment",
     "nameEn": "Staff of Adornment",
-    "namePt": "",
+    "namePt": "Cajado de Adorno",
     "type": "staff",
     "rarity": "common",
     "attunement": false,
@@ -3929,7 +3929,7 @@
   {
     "id": "staff-of-birdcalls",
     "nameEn": "Staff of Birdcalls",
-    "namePt": "",
+    "namePt": "Cajado de Canto de Pássaros",
     "type": "staff",
     "rarity": "common",
     "attunement": false,
@@ -3940,7 +3940,7 @@
   {
     "id": "staff-of-charming",
     "nameEn": "Staff of Charming",
-    "namePt": "",
+    "namePt": "Cajado do Encantamento",
     "type": "staff",
     "rarity": "rare",
     "attunement": true,
@@ -3951,7 +3951,7 @@
   {
     "id": "staff-of-fire",
     "nameEn": "Staff of Fire",
-    "namePt": "",
+    "namePt": "Cajado do Fogo",
     "type": "staff",
     "rarity": "very_rare",
     "attunement": true,
@@ -3962,7 +3962,7 @@
   {
     "id": "staff-of-flowers",
     "nameEn": "Staff of Flowers",
-    "namePt": "",
+    "namePt": "Cajado das Flores",
     "type": "staff",
     "rarity": "common",
     "attunement": false,
@@ -3973,7 +3973,7 @@
   {
     "id": "staff-of-frost",
     "nameEn": "Staff of Frost",
-    "namePt": "",
+    "namePt": "Cajado do Gelo",
     "type": "staff",
     "rarity": "very_rare",
     "attunement": true,
@@ -3984,7 +3984,7 @@
   {
     "id": "staff-of-healing",
     "nameEn": "Staff of Healing",
-    "namePt": "",
+    "namePt": "Cajado da Cura",
     "type": "staff",
     "rarity": "rare",
     "attunement": true,
@@ -3995,7 +3995,7 @@
   {
     "id": "staff-of-power",
     "nameEn": "Staff of Power",
-    "namePt": "",
+    "namePt": "Cajado do Poder",
     "type": "staff",
     "rarity": "very_rare",
     "attunement": true,
@@ -4006,7 +4006,7 @@
   {
     "id": "staff-of-striking",
     "nameEn": "Staff of Striking",
-    "namePt": "",
+    "namePt": "Cajado do Impacto",
     "type": "staff",
     "rarity": "very_rare",
     "attunement": true,
@@ -4017,7 +4017,7 @@
   {
     "id": "staff-of-swarming-insects",
     "nameEn": "Staff of Swarming Insects",
-    "namePt": "",
+    "namePt": "Cajado do Enxame de Insetos",
     "type": "staff",
     "rarity": "rare",
     "attunement": true,
@@ -4028,7 +4028,7 @@
   {
     "id": "staff-of-the-adder",
     "nameEn": "Staff of the Adder",
-    "namePt": "",
+    "namePt": "Cajado da Víbora",
     "type": "staff",
     "rarity": "uncommon",
     "attunement": true,
@@ -4039,7 +4039,7 @@
   {
     "id": "staff-of-the-magi",
     "nameEn": "Staff of the Magi",
-    "namePt": "",
+    "namePt": "Cajado dos Magos",
     "type": "staff",
     "rarity": "legendary",
     "attunement": true,
@@ -4050,7 +4050,7 @@
   {
     "id": "staff-of-the-python",
     "nameEn": "Staff of the Python",
-    "namePt": "",
+    "namePt": "Cajado da Píton",
     "type": "staff",
     "rarity": "uncommon",
     "attunement": true,
@@ -4061,7 +4061,7 @@
   {
     "id": "staff-of-the-woodlands",
     "nameEn": "Staff of the Woodlands",
-    "namePt": "",
+    "namePt": "Cajado da Floresta",
     "type": "staff",
     "rarity": "rare",
     "attunement": true,
@@ -4072,7 +4072,7 @@
   {
     "id": "staff-of-thunder-and-lightning",
     "nameEn": "Staff of Thunder and Lightning",
-    "namePt": "",
+    "namePt": "Cajado do Trovão e Relâmpago",
     "type": "staff",
     "rarity": "very_rare",
     "attunement": true,
@@ -4083,7 +4083,7 @@
   {
     "id": "staff-of-withering",
     "nameEn": "Staff of Withering",
-    "namePt": "",
+    "namePt": "Cajado do Definhamento",
     "type": "staff",
     "rarity": "rare",
     "attunement": true,
@@ -4094,7 +4094,7 @@
   {
     "id": "stone-of-controlling-earth-elementals",
     "nameEn": "Stone of Controlling Earth Elementals",
-    "namePt": "",
+    "namePt": "Pedra de Controle de Elementais da Terra",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -4105,7 +4105,7 @@
   {
     "id": "stone-of-good-luck-luckstone",
     "nameEn": "Stone of Good Luck (Luckstone)",
-    "namePt": "",
+    "namePt": "Pedra da Boa Sorte (Pedra da Sorte)",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -4116,7 +4116,7 @@
   {
     "id": "sun-blade",
     "nameEn": "Sun Blade",
-    "namePt": "",
+    "namePt": "Lâmina Solar",
     "type": "weapon",
     "rarity": "rare",
     "attunement": true,
@@ -4127,7 +4127,7 @@
   {
     "id": "sword-of-answering",
     "nameEn": "Sword of Answering",
-    "namePt": "",
+    "namePt": "Espada da Resposta",
     "type": "weapon",
     "rarity": "legendary",
     "attunement": true,
@@ -4138,7 +4138,7 @@
   {
     "id": "sword-of-kas",
     "nameEn": "Sword of Kas",
-    "namePt": "",
+    "namePt": "Espada de Kas",
     "type": "weapon",
     "rarity": "artifact",
     "attunement": true,
@@ -4149,7 +4149,7 @@
   {
     "id": "sword-of-life-stealing",
     "nameEn": "Sword of Life Stealing",
-    "namePt": "",
+    "namePt": "Espada Roubadora de Vida",
     "type": "weapon",
     "rarity": "rare",
     "attunement": true,
@@ -4160,7 +4160,7 @@
   {
     "id": "sword-of-sharpness",
     "nameEn": "Sword of Sharpness",
-    "namePt": "",
+    "namePt": "Espada Afiada",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -4171,7 +4171,7 @@
   {
     "id": "sword-of-vengeance",
     "nameEn": "Sword of Vengeance",
-    "namePt": "",
+    "namePt": "Espada da Vingança",
     "type": "weapon",
     "rarity": "uncommon",
     "attunement": true,
@@ -4182,7 +4182,7 @@
   {
     "id": "sword-of-wounding",
     "nameEn": "Sword of Wounding",
-    "namePt": "",
+    "namePt": "Espada Lacerante",
     "type": "weapon",
     "rarity": "rare",
     "attunement": true,
@@ -4193,7 +4193,7 @@
   {
     "id": "sylvan-talon",
     "nameEn": "Sylvan Talon",
-    "namePt": "",
+    "namePt": "Garra Silvestre",
     "type": "weapon",
     "rarity": "common",
     "attunement": true,
@@ -4204,7 +4204,7 @@
   {
     "id": "talisman-of-pure-good",
     "nameEn": "Talisman of Pure Good",
-    "namePt": "",
+    "namePt": "Talismã do Bem Puro",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -4215,7 +4215,7 @@
   {
     "id": "talisman-of-the-sphere",
     "nameEn": "Talisman of the Sphere",
-    "namePt": "",
+    "namePt": "Talismã da Esfera",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -4226,7 +4226,7 @@
   {
     "id": "talisman-of-ultimate-evil",
     "nameEn": "Talisman of Ultimate Evil",
-    "namePt": "",
+    "namePt": "Talismã do Mal Supremo",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -4237,7 +4237,7 @@
   {
     "id": "talking-doll",
     "nameEn": "Talking Doll",
-    "namePt": "",
+    "namePt": "Boneca Falante",
     "type": "wondrous",
     "rarity": "common",
     "attunement": true,
@@ -4248,7 +4248,7 @@
   {
     "id": "tankard-of-sobriety",
     "nameEn": "Tankard of Sobriety",
-    "namePt": "",
+    "namePt": "Caneco da Sobriedade",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -4259,7 +4259,7 @@
   {
     "id": "tentacle-rod",
     "nameEn": "Tentacle Rod",
-    "namePt": "",
+    "namePt": "Bastão de Tentáculos",
     "type": "rod",
     "rarity": "rare",
     "attunement": true,
@@ -4270,7 +4270,7 @@
   {
     "id": "thunderous-greatclub",
     "nameEn": "Thunderous Greatclub",
-    "namePt": "",
+    "namePt": "Clava Grande Trovejante",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": true,
@@ -4281,7 +4281,7 @@
   {
     "id": "tome-of-clear-thought",
     "nameEn": "Tome of Clear Thought",
-    "namePt": "",
+    "namePt": "Tomo do Pensamento Claro",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -4292,7 +4292,7 @@
   {
     "id": "tome-of-leadership-and-influence",
     "nameEn": "Tome of Leadership and Influence",
-    "namePt": "",
+    "namePt": "Tomo de Liderança e Influência",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -4303,7 +4303,7 @@
   {
     "id": "tome-of-the-stilled-tongue",
     "nameEn": "Tome of the Stilled Tongue",
-    "namePt": "",
+    "namePt": "Tomo da Língua Silenciada",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": true,
@@ -4314,7 +4314,7 @@
   {
     "id": "tome-of-understanding",
     "nameEn": "Tome of Understanding",
-    "namePt": "",
+    "namePt": "Tomo da Compreensão",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
@@ -4325,7 +4325,7 @@
   {
     "id": "trident-of-fish-command",
     "nameEn": "Trident of Fish Command",
-    "namePt": "",
+    "namePt": "Tridente de Comando de Peixes",
     "type": "weapon",
     "rarity": "uncommon",
     "attunement": true,
@@ -4336,7 +4336,7 @@
   {
     "id": "universal-solvent",
     "nameEn": "Universal Solvent",
-    "namePt": "",
+    "namePt": "Solvente Universal",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": false,
@@ -4347,7 +4347,7 @@
   {
     "id": "veteran-s-cane",
     "nameEn": "Veteran's Cane",
-    "namePt": "",
+    "namePt": "Bengala do Veterano",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -4358,7 +4358,7 @@
   {
     "id": "vicious-weapon",
     "nameEn": "Vicious Weapon",
-    "namePt": "",
+    "namePt": "Arma Cruel",
     "type": "weapon",
     "rarity": "rare",
     "attunement": false,
@@ -4369,7 +4369,7 @@
   {
     "id": "vorpal-sword",
     "nameEn": "Vorpal Sword",
-    "namePt": "",
+    "namePt": "Espada Vorpal",
     "type": "weapon",
     "rarity": "legendary",
     "attunement": true,
@@ -4380,7 +4380,7 @@
   {
     "id": "walloping-ammunition",
     "nameEn": "Walloping Ammunition",
-    "namePt": "",
+    "namePt": "Munição Derrubadora",
     "type": "weapon",
     "rarity": "common",
     "attunement": false,
@@ -4391,7 +4391,7 @@
   {
     "id": "wand-of-binding",
     "nameEn": "Wand of Binding",
-    "namePt": "",
+    "namePt": "Varinha de Imobilização",
     "type": "wand",
     "rarity": "rare",
     "attunement": true,
@@ -4402,7 +4402,7 @@
   {
     "id": "wand-of-conducting",
     "nameEn": "Wand of Conducting",
-    "namePt": "",
+    "namePt": "Varinha de Regência",
     "type": "wand",
     "rarity": "common",
     "attunement": false,
@@ -4413,7 +4413,7 @@
   {
     "id": "wand-of-enemy-detection",
     "nameEn": "Wand of Enemy Detection",
-    "namePt": "",
+    "namePt": "Varinha de Detecção de Inimigos",
     "type": "wand",
     "rarity": "rare",
     "attunement": true,
@@ -4424,7 +4424,7 @@
   {
     "id": "wand-of-fear",
     "nameEn": "Wand of Fear",
-    "namePt": "",
+    "namePt": "Varinha do Medo",
     "type": "wand",
     "rarity": "rare",
     "attunement": true,
@@ -4435,7 +4435,7 @@
   {
     "id": "wand-of-fireballs",
     "nameEn": "Wand of Fireballs",
-    "namePt": "",
+    "namePt": "Varinha de Bolas de Fogo",
     "type": "wand",
     "rarity": "rare",
     "attunement": true,
@@ -4446,7 +4446,7 @@
   {
     "id": "wand-of-lightning-bolts",
     "nameEn": "Wand of Lightning Bolts",
-    "namePt": "",
+    "namePt": "Varinha de Relâmpagos",
     "type": "wand",
     "rarity": "rare",
     "attunement": true,
@@ -4457,7 +4457,7 @@
   {
     "id": "wand-of-magic-detection",
     "nameEn": "Wand of Magic Detection",
-    "namePt": "",
+    "namePt": "Varinha de Detecção de Magia",
     "type": "wand",
     "rarity": "uncommon",
     "attunement": false,
@@ -4468,7 +4468,7 @@
   {
     "id": "wand-of-magic-missiles",
     "nameEn": "Wand of Magic Missiles",
-    "namePt": "",
+    "namePt": "Varinha de Mísseis Mágicos",
     "type": "wand",
     "rarity": "uncommon",
     "attunement": false,
@@ -4479,7 +4479,7 @@
   {
     "id": "wand-of-orcus",
     "nameEn": "Wand of Orcus",
-    "namePt": "",
+    "namePt": "Varinha de Orcus",
     "type": "wand",
     "rarity": "artifact",
     "attunement": true,
@@ -4490,7 +4490,7 @@
   {
     "id": "wand-of-paralysis",
     "nameEn": "Wand of Paralysis",
-    "namePt": "",
+    "namePt": "Varinha de Paralisia",
     "type": "wand",
     "rarity": "rare",
     "attunement": true,
@@ -4501,7 +4501,7 @@
   {
     "id": "wand-of-polymorph",
     "nameEn": "Wand of Polymorph",
-    "namePt": "",
+    "namePt": "Varinha de Metamorfose",
     "type": "wand",
     "rarity": "very_rare",
     "attunement": true,
@@ -4512,7 +4512,7 @@
   {
     "id": "wand-of-pyrotechnics",
     "nameEn": "Wand of Pyrotechnics",
-    "namePt": "",
+    "namePt": "Varinha de Pirotecnia",
     "type": "wand",
     "rarity": "common",
     "attunement": false,
@@ -4523,7 +4523,7 @@
   {
     "id": "wand-of-secrets",
     "nameEn": "Wand of Secrets",
-    "namePt": "",
+    "namePt": "Varinha de Segredos",
     "type": "wand",
     "rarity": "uncommon",
     "attunement": false,
@@ -4534,7 +4534,7 @@
   {
     "id": "wand-of-the-war-mage-1-2-or-3--plus-1",
     "nameEn": "Wand of the War Mage +1",
-    "namePt": "",
+    "namePt": "Varinha do Mago de Guerra +1",
     "type": "wand",
     "rarity": "uncommon",
     "attunement": true,
@@ -4545,7 +4545,7 @@
   {
     "id": "wand-of-the-war-mage-1-2-or-3--plus-2",
     "nameEn": "Wand of the War Mage +2",
-    "namePt": "",
+    "namePt": "Varinha do Mago de Guerra +2",
     "type": "wand",
     "rarity": "rare",
     "attunement": true,
@@ -4556,7 +4556,7 @@
   {
     "id": "wand-of-the-war-mage-1-2-or-3--plus-3",
     "nameEn": "Wand of the War Mage +3",
-    "namePt": "",
+    "namePt": "Varinha do Mago de Guerra +3",
     "type": "wand",
     "rarity": "very_rare",
     "attunement": true,
@@ -4567,7 +4567,7 @@
   {
     "id": "wand-of-web",
     "nameEn": "Wand of Web",
-    "namePt": "",
+    "namePt": "Varinha de Teia",
     "type": "wand",
     "rarity": "uncommon",
     "attunement": true,
@@ -4578,7 +4578,7 @@
   {
     "id": "wand-of-wonder",
     "nameEn": "Wand of Wonder",
-    "namePt": "",
+    "namePt": "Varinha das Maravilhas",
     "type": "wand",
     "rarity": "rare",
     "attunement": true,
@@ -4589,7 +4589,7 @@
   {
     "id": "wave",
     "nameEn": "Wave",
-    "namePt": "",
+    "namePt": "Onda",
     "type": "weapon",
     "rarity": "artifact",
     "attunement": true,
@@ -4600,7 +4600,7 @@
   {
     "id": "weapon-1-2-or-3--plus-1",
     "nameEn": "Weapon +1",
-    "namePt": "",
+    "namePt": "Arma +1",
     "type": "weapon",
     "rarity": "uncommon",
     "attunement": false,
@@ -4611,7 +4611,7 @@
   {
     "id": "weapon-1-2-or-3--plus-2",
     "nameEn": "Weapon +2",
-    "namePt": "",
+    "namePt": "Arma +2",
     "type": "weapon",
     "rarity": "rare",
     "attunement": false,
@@ -4622,7 +4622,7 @@
   {
     "id": "weapon-1-2-or-3--plus-3",
     "nameEn": "Weapon +3",
-    "namePt": "",
+    "namePt": "Arma +3",
     "type": "weapon",
     "rarity": "very_rare",
     "attunement": false,
@@ -4633,7 +4633,7 @@
   {
     "id": "weapon-of-warning",
     "nameEn": "Weapon of Warning",
-    "namePt": "",
+    "namePt": "Arma de Alerta",
     "type": "weapon",
     "rarity": "uncommon",
     "attunement": true,
@@ -4644,7 +4644,7 @@
   {
     "id": "well-of-many-worlds",
     "nameEn": "Well of Many Worlds",
-    "namePt": "",
+    "namePt": "Poço dos Muitos Mundos",
     "type": "wondrous",
     "rarity": "legendary",
     "attunement": false,
@@ -4655,7 +4655,7 @@
   {
     "id": "whelm",
     "nameEn": "Whelm",
-    "namePt": "",
+    "namePt": "Subjugadora",
     "type": "weapon",
     "rarity": "artifact",
     "attunement": true,
@@ -4666,7 +4666,7 @@
   {
     "id": "wind-fan",
     "nameEn": "Wind Fan",
-    "namePt": "",
+    "namePt": "Leque do Vento",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -4677,7 +4677,7 @@
   {
     "id": "winged-boots",
     "nameEn": "Winged Boots",
-    "namePt": "",
+    "namePt": "Botas Aladas",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -4688,7 +4688,7 @@
   {
     "id": "wings-of-flying",
     "nameEn": "Wings of Flying",
-    "namePt": "",
+    "namePt": "Asas de Voo",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -4699,7 +4699,7 @@
   {
     "id": "wraps-of-unarmed-power--plus-1",
     "nameEn": "Wraps of Unarmed Power +1",
-    "namePt": "",
+    "namePt": "Faixas de Poder Desarmado +1",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": false,
@@ -4710,7 +4710,7 @@
   {
     "id": "wraps-of-unarmed-power--plus-2",
     "nameEn": "Wraps of Unarmed Power +2",
-    "namePt": "",
+    "namePt": "Faixas de Poder Desarmado +2",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -4721,7 +4721,7 @@
   {
     "id": "wraps-of-unarmed-power--plus-3",
     "nameEn": "Wraps of Unarmed Power +3",
-    "namePt": "",
+    "namePt": "Faixas de Poder Desarmado +3",
     "type": "wondrous",
     "rarity": "very_rare",
     "attunement": false,
