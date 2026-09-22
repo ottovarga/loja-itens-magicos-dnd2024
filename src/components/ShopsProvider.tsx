@@ -102,7 +102,9 @@ export function ShopsProvider({ children, storage: injected, deps = browserDeps 
   useEffect(() => {
     const timer = setTimeout(flush, SAVE_DELAY_MS);
     return () => clearTimeout(timer);
-  }, [flush]);
+    // `shops` força o debounce a reiniciar a cada edição; `flush` sempre lê o
+    // estado mais recente via `latestShops`, então não precisa mudar de identidade.
+  }, [flush, shops]);
 
   useEffect(() => {
     window.addEventListener("pagehide", flush);

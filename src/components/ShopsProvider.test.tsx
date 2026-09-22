@@ -18,6 +18,9 @@ function Probe() {
         ))}
       </ul>
       <button onClick={() => upsertShop(makeShop({ id: "nova", name: "Loja Nova" }))}>criar</button>
+      <button onClick={() => upsertShop(makeShop({ id: "nova", name: "Loja Renomeada" }))}>
+        renomear
+      </button>
     </div>
   );
 }
@@ -97,6 +100,21 @@ describe("ShopsProvider", () => {
     fireEvent.click(screen.getByText("criar"));
     act(() => vi.advanceTimersByTime(SAVE_DELAY_MS * 2));
     expect(storage.getItem(SHOPS_KEY)).toBe("{lixo");
+  });
+
+  it("continua gravando edições feitas depois do primeiro salvamento", () => {
+    vi.useFakeTimers();
+    const storage = memoryStorage();
+    renderProbe(storage);
+    fireEvent.click(screen.getByText("criar"));
+    act(() => vi.advanceTimersByTime(SAVE_DELAY_MS));
+    expect(savedNames(storage)).toEqual(["Loja Nova"]);
+
+    fireEvent.click(screen.getByText("renomear"));
+    act(() => vi.advanceTimersByTime(SAVE_DELAY_MS - 1));
+    expect(savedNames(storage)).toEqual(["Loja Nova"]);
+    act(() => vi.advanceTimersByTime(1));
+    expect(savedNames(storage)).toEqual(["Loja Renomeada"]);
   });
 
   it("não perde a última edição quando a página é escondida antes do novo render", () => {
