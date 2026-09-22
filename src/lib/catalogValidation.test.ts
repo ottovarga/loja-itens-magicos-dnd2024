@@ -46,4 +46,28 @@ describe("validateCatalog", () => {
   it("acusa entrada que não é objeto", () => {
     expect(validateCatalog([42])).toEqual(["#0: não é um objeto"]);
   });
+
+  it("acusa id vazio", () => {
+    expect(validateCatalog([{ ...valid, id: "" }])).toEqual([
+      "#0: id vazio",
+    ]);
+  });
+
+  it("acusa nome em inglês vazio", () => {
+    expect(validateCatalog([{ ...valid, nameEn: " " }])).toEqual([
+      "potion-of-healing: nome em inglês vazio",
+    ]);
+  });
+
+  it("acusa fonte vazia", () => {
+    expect(validateCatalog([{ ...valid, source: "" }])).toEqual([
+      "potion-of-healing: fonte vazia",
+    ]);
+  });
+
+  it("acusa attunement deve ser booleano", () => {
+    expect(validateCatalog([{ ...valid, attunement: "sim" }])).toEqual([
+      "potion-of-healing: attunement deve ser booleano",
+    ]);
+  });
 });
