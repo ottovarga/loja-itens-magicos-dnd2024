@@ -288,7 +288,7 @@
   {
     "id": "bead-of-force",
     "nameEn": "Bead of Force",
-    "namePt": "Conta de Força",
+    "namePt": "Conta de Energia",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": false,
@@ -629,7 +629,7 @@
   {
     "id": "cast-off-armor",
     "nameEn": "Cast-Off Armor",
-    "namePt": "Armadura Descartável",
+    "namePt": "Armadura de Remoção Rápida",
     "type": "armor",
     "rarity": "common",
     "attunement": false,
@@ -805,7 +805,7 @@
   {
     "id": "clothes-of-mending",
     "nameEn": "Clothes of Mending",
-    "namePt": "Roupas Autorremendantes",
+    "namePt": "Roupas Autorreparáveis",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -860,7 +860,7 @@
   {
     "id": "cube-of-force",
     "nameEn": "Cube of Force",
-    "namePt": "Cubo de Força",
+    "namePt": "Cubo de Energia",
     "type": "wondrous",
     "rarity": "rare",
     "attunement": true,
@@ -1377,7 +1377,7 @@
   {
     "id": "eyes-of-charming",
     "nameEn": "Eyes of Charming",
-    "namePt": "Olhos Encantadores",
+    "namePt": "Olhos Enfeitiçantes",
     "type": "wondrous",
     "rarity": "uncommon",
     "attunement": true,
@@ -2554,7 +2554,7 @@
   {
     "id": "perfume-of-bewitching",
     "nameEn": "Perfume of Bewitching",
-    "namePt": "Perfume do Enfeitiçamento",
+    "namePt": "Perfume da Sedução",
     "type": "wondrous",
     "rarity": "common",
     "attunement": false,
@@ -3940,7 +3940,7 @@
   {
     "id": "staff-of-charming",
     "nameEn": "Staff of Charming",
-    "namePt": "Cajado do Encantamento",
+    "namePt": "Cajado do Enfeitiçamento",
     "type": "staff",
     "rarity": "rare",
     "attunement": true,
