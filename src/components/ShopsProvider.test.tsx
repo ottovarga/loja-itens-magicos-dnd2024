@@ -99,6 +99,16 @@ describe("ShopsProvider", () => {
     expect(storage.getItem(SHOPS_KEY)).toBe("{lixo");
   });
 
+  it("não perde a última edição quando a página é escondida antes do novo render", () => {
+    const storage = memoryStorage();
+    renderProbe(storage);
+    act(() => {
+      fireEvent.click(screen.getByText("criar"));
+      window.dispatchEvent(new Event("pagehide"));
+    });
+    expect(savedNames(storage)).toEqual(["Loja Nova"]);
+  });
+
   it("acusa storage indisponível e continua funcionando em memória", () => {
     renderProbe(null);
     expect(screen.getByTestId("error")).toHaveTextContent("unavailable");

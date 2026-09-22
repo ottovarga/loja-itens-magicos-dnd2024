@@ -64,6 +64,7 @@ export function ShopsProvider({ children, storage: injected, deps = browserDeps 
   const [loaded, setLoaded] = useState(false);
   const [error, setError] = useState<StorageError | null>(null);
   const dirty = useRef(false);
+  const latestShops = useRef(shops);
 
   useEffect(() => {
     const target = injected === undefined ? browserStorage() : injected;
@@ -73,8 +74,12 @@ export function ShopsProvider({ children, storage: injected, deps = browserDeps 
       setError("unavailable");
     } else {
       const result = loadShops(target);
-      if (result.ok) setShops(result.value);
-      else setError(result.error);
+      if (result.ok) {
+        latestShops.current = result.value;
+        setShops(result.value);
+      } else {
+        setError(result.error);
+      }
     }
     setLoaded(true);
   }, [injected]);
@@ -84,14 +89,15 @@ export function ShopsProvider({ children, storage: injected, deps = browserDeps 
   const flush = useCallback(() => {
     if (!dirty.current || !storage || !canSave) return;
     dirty.current = false;
-    const result = saveShops(storage, shops, deps);
+    const current = latestShops.current;
+    const result = saveShops(storage, current, deps);
     if (!result.ok) {
       setError(result.error);
       return;
     }
     setError(null);
-    maybeAutoSnapshot(storage, shops, deps);
-  }, [storage, canSave, shops, deps]);
+    maybeAutoSnapshot(storage, current, deps);
+  }, [storage, canSave, deps]);
 
   useEffect(() => {
     const timer = setTimeout(flush, SAVE_DELAY_MS);
@@ -107,18 +113,23 @@ export function ShopsProvider({ children, storage: injected, deps = browserDeps 
     (shop: Shop) => {
       dirty.current = true;
       const stamped = { ...shop, updatedAt: deps.now().toISOString() };
-      setShops((prev) => upsertShopInList(prev, stamped));
+      const next = upsertShopInList(latestShops.current, stamped);
+      latestShops.current = next;
+      setShops(next);
     },
     [deps],
   );
 
   const deleteShop = useCallback((id: string) => {
     dirty.current = true;
-    setShops((prev) => removeShopFromList(prev, id));
+    const next = removeShopFromList(latestShops.current, id);
+    latestShops.current = next;
+    setShops(next);
   }, []);
 
   const replaceAll = useCallback((next: Shop[]) => {
     dirty.current = false;
+    latestShops.current = next;
     setShops(next);
     setError(null);
   }, []);
