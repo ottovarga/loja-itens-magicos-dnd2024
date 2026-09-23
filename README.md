@@ -1,0 +1,1 @@
+# loja-itens-magicos-dnd2024
