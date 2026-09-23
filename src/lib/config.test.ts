@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { defaultGenConfig, sanitizeConfig } from "./config";
+import { defaultGenConfig, evenWeights, sanitizeConfig } from "./config";
 import { ITEM_TYPES } from "./types";
 import { counts, makeConfig } from "./__fixtures__/config";
 
@@ -57,5 +57,15 @@ describe("sanitizeConfig", () => {
 
   it("troca valores não numéricos por zero", () => {
     expect(sanitizeConfig(makeConfig({ generalMod: Number.NaN })).generalMod).toBe(0);
+  });
+});
+
+describe("evenWeights", () => {
+  it("divide 100% igualmente entre os tipos marcados", () => {
+    expect(evenWeights(["weapon", "ring", "wondrous"])).toEqual({ weapon: 33, ring: 33, wondrous: 33 });
+  });
+
+  it("devolve objeto vazio sem tipos", () => {
+    expect(evenWeights([])).toEqual({});
   });
 });

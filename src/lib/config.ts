@@ -26,6 +26,12 @@ function toRange([a, b]: [number, number]): [number, number] {
   return lo <= hi ? [lo, hi] : [hi, lo];
 }
 
+export function evenWeights(types: readonly ItemType[]): Partial<Record<ItemType, number>> {
+  if (types.length === 0) return {};
+  const share = Math.floor(100 / types.length);
+  return Object.fromEntries(types.map((t) => [t, share]));
+}
+
 export function sanitizeConfig(config: GenConfig): GenConfig {
   const rarityCounts = Object.fromEntries(
     RARITIES.map((r) => [r, toInt(config.rarityCounts[r], 0)]),
