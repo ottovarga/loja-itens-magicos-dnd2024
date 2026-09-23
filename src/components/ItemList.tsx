@@ -82,12 +82,12 @@ export function ItemList({ items, index, generalMod, onSelect }: ItemListProps) 
           <h3 className="mb-2">
             <RaritySeal rarity={group.rarity} />
           </h3>
-          <table className="old-table w-full">
+          <table className="old-table w-full table-fixed">
             <thead>
               <tr>
                 <th scope="col" className="text-left">Item</th>
-                <th scope="col">Qtd.</th>
-                <th scope="col" className="text-right">Preço</th>
+                <th scope="col" className="w-14">Qtd.</th>
+                <th scope="col" className="w-28 text-right">Preço</th>
               </tr>
             </thead>
             <tbody>
@@ -113,13 +113,13 @@ export function ItemList({ items, index, generalMod, onSelect }: ItemListProps) 
                       </span>
                     </button>
                   </td>
-                  <td className="numbers text-center">
+                  <td className="numbers whitespace-nowrap text-center">
                     ×{shopItem.qty}
                     {shopItem.sold > 0 && (
                       <span className="block text-xs text-ink-soft">{shopItem.sold} vend.</span>
                     )}
                   </td>
-                  <td className="numbers text-right">
+                  <td className="numbers whitespace-nowrap text-right">
                     {formatGp(price)}
                     {base !== null && price !== base && (
                       <s className="block text-xs text-ink-soft">{formatGp(base)}</s>
