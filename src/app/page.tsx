@@ -1,9 +1,10 @@
+"use client";
+
+import { useRouter } from "next/navigation";
+import { HomeView } from "@/components/HomeView";
+import { CATALOG } from "@/lib/catalogData";
+
 export default function HomePage() {
-  return (
-    <section className="frame p-6">
-      <h1 className="title drop-cap text-3xl">Lojas</h1>
-      <p className="numbers">4.000 PO</p>
-      <span className="seal seal-rare">Raro</span>
-    </section>
-  );
+  const router = useRouter();
+  return <HomeView catalog={CATALOG} onOpenShop={(id) => router.push(`/loja/${id}`)} />;
 }
